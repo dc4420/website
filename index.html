@@ -65,40 +65,37 @@ Kyriakos Economou (<a href="https://twitter.com/kyREcon">@kyREcon</a>
 
 Title:
 
-A short overview for <a href="http://www.anti-reversing.com/">Shellter v1.0</a>
+A short overview for Shellter v1.0
+<a href="http://www.shellterproject.com/">http://www.shellterproject.com/</a>
 
 Synopsis: 
 
-It is a dynamic shellcode injector (maybe the first really
-dynamic PE infector). It can be used to hide shellcode into
-native 32-bit applications without using any static executable
-templates for which it would make easy writing AV detection
-signatures.
+It is a dynamic shellcode injector (maybe the first really dynamic PE
+infector). It can be used to hide shellcode into native 32-bit
+applications without using any static executable templates for which it
+would make easy writing AV detection signatures.
 
 Won't use any static locations, won't modify the original
-EntryPoint, won't add sections, won't change original access
-rights of sections defined in the PE header.
+EntryPoint, won't add sections, won't change original access rights
+of sections defined in the PE header.
 
 Shellter will gather information during the execution of an
-application and then will use this in conjunction with the
-payload selected in order to provide to the user a set of
-locations where execution is guaranteed to fall on the 1st
-instruction of the injected shellcode without breaking the
-shellcode or the execution prior to execute the injected
-shellcode.
+application and then will use this in conjunction with the payload
+selected in order to provide to the user a set of locations where
+execution is guaranteed to fall on the 1st instruction of the
+injected shellcode without breaking the shellcode or the execution
+prior to execute the injected shellcode.
 
-The engine is capable of recognizing self-modifying code on
-the run and during filtering to avoid injecting into location
-that would break the shellcode. The filtering stages also
-perform more analysis to guarantee a successfull shellcode
-injection.
+The engine is capable of recognizing self-modifying code on the run
+and during filtering to avoid injecting into location that would
+break the shellcode. The filtering stages also perform more analysis
+to guarantee a successfull shellcode injection.
 
-Shellter also includes a junk code generating polymorphic
-engine. It also supports encoded/self-decrypting payloads,
-and it does that without modifying the executable host with
-extra sections with dodgy access rights (RWE), or changing
-the permissions of the existing ones. Everything happens in
-memory, dynamically.
+Shellter also includes a junk code generating polymorphic engine. It
+also supports encoded/self-decrypting payloads, and it does that
+without modifying the executable host with extra sections with dodgy
+access rights (RWE), or changing the permissions of the existing
+ones. Everything happens in memory, dynamically.
 
 No static executable templates, just get any native 32-bit
 executable and use it as a host as many times as you want and
