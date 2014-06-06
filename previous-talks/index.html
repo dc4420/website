@@ -28,6 +28,108 @@
 <body>
 
 <pre>
+Tuesday 27th May, 2014
+
+Agenda:
+
++++
+
+1st Speaker:
+
+David Rogers (<a href="https://twitter.com/drogersuk">@drogersuk</a>)
+<a href="http://blog.mobilephonesecurity.org/">http://blog.mobilephonesecurity.org/</a>
+
+Title:
+
+Mobile phone hacking - lucrative, but hidden
+
+Synopsis:
+
+Mobile phone hacking has been going on for many years, but if you
+listen to most security companies, they'll only talk about the iPhone
+and Android. Either that, or they'll talk about mobile malware. This
+talk gives some of the real background, from the late 90s through
+until the present day including the jailbreaking and rooting
+community’s roots in SIMlock and car radio hacking. Some impressive,
+but questionably legal engineering feats that made a lot of people
+a lot of money, but with little publicity.
+
++++
+
+2nd Speaker:
+
+Kyriakos Economou (<a href="https://twitter.com/kyREcon">@kyREcon</a>)
+
+Title:
+
+A short overview for Shellter v1.0
+<a href="http://www.shellterproject.com/">http://www.shellterproject.com/</a>
+
+Synopsis: 
+
+It is a dynamic shellcode injector (maybe the first really dynamic PE
+infector). It can be used to hide shellcode into native 32-bit
+applications without using any static executable templates for which it
+would make easy writing AV detection signatures.
+
+Won't use any static locations, won't modify the original
+EntryPoint, won't add sections, won't change original access rights
+of sections defined in the PE header.
+
+Shellter will gather information during the execution of an
+application and then will use this in conjunction with the payload
+selected in order to provide to the user a set of locations where
+execution is guaranteed to fall on the 1st instruction of the
+injected shellcode without breaking the shellcode or the execution
+prior to execute the injected shellcode.
+
+The engine is capable of recognizing self-modifying code on the run
+and during filtering to avoid injecting into location that would
+break the shellcode. The filtering stages also perform more analysis
+to guarantee a successfull shellcode injection.
+
+Shellter also includes a junk code generating polymorphic engine. It
+also supports encoded/self-decrypting payloads, and it does that
+without modifying the executable host with extra sections with dodgy
+access rights (RWE), or changing the permissions of the existing
+ones. Everything happens in memory, dynamically.
+
+No static executable templates, just get any native 32-bit
+executable and use it as a host as many times as you want and
+produce a different result every time.
+
++++
+
+
+
+Tuesday 29th April, 2014:
+
+April DC4420 was sponsored by Cigital - <a href="http://www.cigital.co.uk/">www.cigital.co.uk</a>
+Cigital bought a round of drinks for everyone.
+
+Agenda:
+
++++
+
+We have one speaker for you this month, after which the mic is open to
+anyone with a short talk they want to share.
+
++++
+
+Speaker:
+Paco Hope, Cigital
+
+Title:
+Bugs versus flaws
+
+Synopsis:
+A fun look at the differences between a bug (glitch in the code)
+versus a flaw (problem in the design itself).
+
++++
+
+
+
 Tuesday 25th March, 2014:
 
 Agenda:
@@ -59,6 +161,8 @@ Playing tag - the online version
 Synopsis:
 
 A picture says 1000 words, some of them say great stories (and some not).
+
++++
 
 
 

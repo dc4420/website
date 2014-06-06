@@ -13,7 +13,7 @@
 </head>
 
 <body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); text-align: center;" alink="#000099" link="#000099" vlink="#990099">
-<div style="text-align: center;"><img style="width: 200px; height: 210px;" alt="DC4420" src="/images/dc-skull-logo-light-yellow.png"><br>
+<div style="text-align: center;"><img style="width: 200px; height: 210px;" alt="DC4420" src="/images/dc-skull-logo-coffee.png"><br>
 
 </div>
 
@@ -34,7 +34,6 @@
 
 Meetings are the last Tuesday of the month except December...
 
-    May 27th
     June 24th
     July 29th
     August 26th
@@ -49,7 +48,8 @@ Format is two normally talks: a primary 1 hour (ish) and a secondary 30 minutes 
 Talks start at 19:30 but we have the room from about 18:00 to 23:00 or so.
 
 
-We have two confirmed speakers for May! Both talks are ~1 hr, so we will try to start promptly.
+We have one confirmed speaker for June. If you would like to give the second talk or
+suggest a speaker please email <a href="mailto:talks@dc4420.org?subject=DC4420%20Talk">talks@dc4420.org</a>
 
 You are welcome to share relevant announcements (events, projects you want help with, ...);
 make yourself known at the beginning of the meeting,
@@ -58,69 +58,31 @@ or email <a href="mailto:talks@dc4420.org?subject=DC4420%20Talk">talks@dc4420.or
 
 +++
 
-First Speaker:
+1st Speaker:
 
-David Rogers (<a href="https://twitter.com/drogersuk">@drogersuk</a>)
-<a href="http://blog.mobilephonesecurity.org/">http://blog.mobilephonesecurity.org/</a>
+Tom Keetch (<a href="https://twitter.com/tkeetch">@tkeetch</a>)
+
+Bio:
+
+Tom Keetch works as a Security Researcher for <a href="http://www.blackberry.com/">BlackBerry</a> and has
+been working to secure the NFC implementation in the BB10 OS. He is
+also involved in other aspects of mobile device security including
+the QNX OS, secure-boot, ARM TrustZone, the web browserand BBM and
+sandboxing.
 
 Title:
 
-Mobile phone hacking - lucrative, but hidden
+NFC - the non-radio bits
 
 Synopsis:
 
-Mobile phone hacking has been going on for many years, but if you
-listen to most security companies, they’ll only talk about the iPhone
-and Android. Either that, or they’ll talk about mobile malware. This
-talk gives some of the real background, from the late 90s through
-until the present day including the jailbreaking and rooting
-community’s roots in SIMlock and car radio hacking. Some impressive,
-but questionably legal engineering feats that made a lot of people
-a lot of money, but with little publicity.
+When we talk about NFC, often people think of the short-range radio
+protocol and RFID. But that's only a small part of the picture. Smart
+cards play an important role in NFC and this presentation will focus
+on how NFC standards build on and extend smart card security concepts
+to enable applications like contactless mobile payments.
 
-+++
 
-Second Speaker:
-
-Kyriakos Economou (<a href="https://twitter.com/kyREcon">@kyREcon</a>)
-
-Title:
-
-A short overview for Shellter v1.0
-<a href="http://www.shellterproject.com/">http://www.shellterproject.com/</a>
-
-Synopsis: 
-
-It is a dynamic shellcode injector (maybe the first really dynamic PE
-infector). It can be used to hide shellcode into native 32-bit
-applications without using any static executable templates for which it
-would make easy writing AV detection signatures.
-
-Won't use any static locations, won't modify the original
-EntryPoint, won't add sections, won't change original access rights
-of sections defined in the PE header.
-
-Shellter will gather information during the execution of an
-application and then will use this in conjunction with the payload
-selected in order to provide to the user a set of locations where
-execution is guaranteed to fall on the 1st instruction of the
-injected shellcode without breaking the shellcode or the execution
-prior to execute the injected shellcode.
-
-The engine is capable of recognizing self-modifying code on the run
-and during filtering to avoid injecting into location that would
-break the shellcode. The filtering stages also perform more analysis
-to guarantee a successfull shellcode injection.
-
-Shellter also includes a junk code generating polymorphic engine. It
-also supports encoded/self-decrypting payloads, and it does that
-without modifying the executable host with extra sections with dodgy
-access rights (RWE), or changing the permissions of the existing
-ones. Everything happens in memory, dynamically.
-
-No static executable templates, just get any native 32-bit
-executable and use it as a host as many times as you want and
-produce a different result every time.
 
 +++
 
