@@ -201,6 +201,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    color: #FFF;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -209,9 +210,19 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    color: #BBB;
+
+    h1 {
+        font-size:34px;
+        color: #FFF;
+        @include media-query($on-laptop) {
+            font-size: 28px;
+        }
+    }
 
     h2 {
         font-size: 32px;
+        color: #FFF;
 
         @include media-query($on-laptop) {
             font-size: 28px;
@@ -219,15 +230,17 @@
     }
 
     h3 {
-        font-size: 26px;
+        font-size: 24px;
+        color: #FFF;
 
         @include media-query($on-laptop) {
-            font-size: 22px;
+            font-size: 20px;
         }
     }
 
     h4 {
         font-size: 20px;
+        color: #FFF;
 
         @include media-query($on-laptop) {
             font-size: 18px;

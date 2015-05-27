@@ -15,7 +15,7 @@
                 {{ post.title }} - 
               {% endif %}
               {{post.date | date_to_long_string }}</h1>
-          <p class="post-meta">{{ post.content }}</p>
+          <div class="post-content">{{ post.content }}</p>
           {% endfor %}
       </div>
     </div>
