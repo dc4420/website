@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper">
+          {% for post in site.posts limit:1 %}
+          <h1 class="post-title">
+              {% if post.title %}
+                {{ post.title }} - 
+              {% endif %}
+              {{post.date | date_to_long_string }}</h1>
+          <p class="post-meta">{{ post.content }}</p>
+          {% endfor %}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

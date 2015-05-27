@@ -1,0 +1,49 @@
+---
+layout: post
+title:  
+date: 2015-05-27 09:23:47
+categories: talk
+---
+
+# 1st Talk
+
+## Pwning android via nfc/bluetooth
+
+### Speaker
+
+Adam Laurie, Aperture Labs Ltd [@rfidiot](http://twitter.com/rfidiot)
+
+### Synopsis
+
+I've just been given the go-ahead by ZDI/Google to spill the beans on the
+pwn2own (joint) winning entry in Tokyo last November, in which I pwned Android
+via NFC & Bluetooth...
+
+I'm not going to give too much away before the event, but suffice it to
+say I pwned Android hard, and he/she/it loved it :) - I will do a live
+demo, and it will make you install that system update you've been
+resisting for weeks (if not, don't forget to come and see me after the
+show so I can follow you at a discreet distance for a few minutes...).
+
+This was my first entry in pwn2own (or any such competition for that
+matter), so I'll talk not only about the hack itself, but also the whole
+concept of bounties and competitions. I hope this will spark some debate
+and to turn this into a lively discussion, so if you have a strong
+opinion on the subject, please come along!
+
+Oh, and bring your Android phone...
+
+<hr>
+
+# 2nd Talk
+
+## An expression of elegance, base 3 math
+
+### Speaker
+
+Stuart Ward
+
+### Synopsis
+
+We will explore a forgotten alternative to binary, called balanced ternery.
+How the maths works and some of the neat things it does.

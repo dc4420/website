@@ -1,0 +1,59 @@
+---
+layout: post
+title:  
+date: 2014-06-24 09:23:47
+categories: talk
+---
+
+# 1st Speaker
+
+Tom Keetch [@tkeetch](http://twitter.com/tkeetch)
+
+## Bio
+
+Tom Keetch works as a Security Researcher for BlackBerry and has
+been working to secure the NFC implementation in the BB10 OS. He is
+also involved in other aspects of mobile device security including
+the QNX OS, secure-boot, ARM TrustZone, the web browserand BBM and
+sandboxing.
+
+## Title
+
+NFC - the non-radio bits
+
+## Synopsis
+
+When we talk about NFC, often people think of the short-range radio
+protocol and RFID. But that's only a small part of the picture. Smart
+cards play an important role in NFC and this presentation will focus
+on how NFC standards build on and extend smart card security concepts
+to enable applications like contactless mobile payments.
+
+Slides are here:
+
+[http://tkeetch.co.uk/blog/?p=34](http://tkeetch.co.uk/blog/?p=34)
+
+<hr>
+
+Planned 2nd speaker was ill, and his talk was postponed until July.
+
+We had an improvised second talk instead.
+
+# 2nd Speakers
+
+Adam Laurie, Aperature Labs (@rfidiot)
+
+Tony Naggs (@xa329)
+
+## Title
+
+Update on the RFIDler LF, a Software Defined RFID Reader/Writer/Emulator
+
+## Synopsis
+
+The first Beta RFIDlers ordered through KickStarter have shipped.
+
+The source code and schematics are open for non-commercial use -
+
+https://github.com/ApertureLabsLtd/RFIDler
+

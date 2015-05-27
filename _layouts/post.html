@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+     <div class="page-content">
+      <div class="wrapper">
+          <h1 class="post-title">
+              {% if page.title %}
+                {{ page.title }} - 
+              {% endif %}
+              {{ page.date | date_to_long_string }}</h1>
+          <p class="post-meta">{{ content }}</p>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

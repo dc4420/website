@@ -1,179 +1,23 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<html>
-<head>
-<title>DC4420 - Defcon London</title>
-<META NAME="keywords" CONTENT="hacking, hacks, white hat, black hat, group, defcon, london">
-<META NAME="description" CONTENT="a bunch of geeks trying to break things for the greater good">
-<META HTTP-EQUIV="Content-Language" CONTENT="EN">
-<META NAME="distribution" CONTENT="Global">
-<META NAME="revisit-after" CONTENT="5 days">
-<META NAME="copyright" CONTENT="All content of this site is copyright or copyleft we dont copy anything do we">
-<META NAME="robots" CONTENT="FOLLOW,INDEX">
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-</head>
+---
+layout: default
+---
 
-<body style="color: rgb(255, 255, 255); background-color: rgb(0, 0, 0); text-align: center;" alink="#000099" link="#000099" vlink="#990099">
-<div style="text-align: center;"><img style="width: 200px; height: 210px;" alt="DC4420" src="/images/dc-skull-logo-blue.png"><br>
+<div class="home">
+
+  <h1 class="page-heading">Posts</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
-
-<br>
-<pre style=" overflow-x: auto; /* Use horizontal scroller if needed; for Firefox 2,not needed in Firefox 3 */
- white-space: pre-wrap; /* css-3 */
- white-space: -moz-pre-wrap !important; /* Mozilla, since 1999 */
- white-space: -pre-wrap; /* Opera 4-6 */
- white-space: -o-pre-wrap; /* Opera 7 */
- width: 70%; margin-left: 15%;
- word-wrap: break-word; /* Internet Explorer 5.5+ */
-">
-<br>
-<!-- <div style="text-align: center;">Welcome to DC4420, aka Defcon London.</div> -->
-<h1>Welcome to DC4420, aka Defcon London.</h1>
-<blockquote>
-.reality [2015 edition]
-
-Meetings are normally the last Tuesday of the month, except December...
-
-    June 30th
-    July 28th
-    August 25th
-    September 29th
-    October 27th
-    November 24th
-    December tbc
-
-
-<B>New attendees welcome, just come along!</B>
-(There are no entry fees, and no tickets to book.)
-
-<h3>June 30th 2015</h3>
-
-+++
-
-Micro Talk (5 minutes):
-
-#hackbases - journey to `off the grid`
-
-Speaker:
-
-Michał Stefanów (<a href="https://michalstefanow.com">michalstefanow.com</a>), Michal Stefanow Ltd
-
-Slides: <a href="https://bit.ly/hackbases">bit.ly/hackbases</a>
-
-Synopsis:
-
-The hackbase started as "Cyberhippietotalism" or "CHT#1" in 2011. 
-After 3 years as a rented house, the second version of the base restarted in November 2014, 
-as an off-grid camp &amp; research initiative, scheming to buy first plot of land 
-and settle in the same area: north of Lanzarote, Canary Islands.
-
-+++
-
-1st Talk (short):
-
-Multi-Vectored Web Application Exploitation
-
-Speaker:
-
-Freddie Barr-Smith
-
-Synopsis:
-
-In this talk I aim to give a practical introduction to basic web application
-exploitation. Attack vectors such as browser hacking, cross-site scripting
-and SQL injection are often demeaned. There are many critical services contained
-within the application layer such as online banking, social networking and email.
-The vast majority of vulnerabilities found nowadays are injection or XSS based
-and it is possible to leverage access gained via application-layer attacks.
-
-+++
-
-2nd Talk (long):
-
-OWASP mobile top ten
-
-Speaker:
-
-Paco Hope (<a href="https://twitter.com/pacohope">@pacohope</a>), Cigital
-
-Paco Hope is a security consultant at Cigital who has helped software firms
-secure their software for nearly 15 years in a variety of industries like
-financial services, retail, and embedded systems. He is the author of two
-books on security, the most recent being the Web Security Testing Cookbook.
-He helps (ISC)&sup2; develop the Certified Secure Software Lifecycle Professional
-(CSSLP) and CISSP certifications.
-
-Synopsis:
-
-OWASP&#8217s Mobile Top Ten (MTT) Risks project has been around for a few years and
-has changed shape several times during those years. In 2015 we&#8217re remaking it
-with reference data from several security consultancies. Paco Hope is helping
-to shape the 2015 version of the MTT and will share where it has been, where it
-is, and where it&#8217s going. More info is available at:
-<a href="https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks">https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks</a>
-
-
-<h3>Talk nights</h3>
-Format is usually two talks: a primary 1 hour (ish) and,
-a secondary 30 minutes (ish).
-Talks start at 19:30, but we have the room from about
-18:30 to 23:00.
-
-
-<h2>Speakers Wanted</h2>
-Typically our programme has a technical talk (~1 hr) and lighter talk (~30 min).
-Once or twice a year we have a &quot;Lightning Talk&quot; format, with shorter
-talks up to ~15 minutes, with anyone who wants to speak on the night.
-
-The qualifications for speakers are simple, have a subject of interest
-to fellow technical & InfoSec people. The subject can be on technical 
-or security issues, social interaction with technology, based on the
-current events, or just something entertaining to our attendees.
-As a speaker you can be an expert, a student, someone learning a new
-area, maybe a regular speaker on the conference circuit, but we also
-love to have new & occasional speakers.
-
-Send your talk / activity proposals to <A HREF="mailto:talks@dc4420.org?subject=DC4420%20Talk">talks@dc4420.org</A> 
-
-You are very welcome to propose running activities other than talks, such
-as hands-on workshop or an infosec pub quiz, or something else relevant to our
-techie audience!
-
-We also welcome occasional company pitches, to sell or recruit, but to regulate
-the frequency of these we ask you to buy a round of drinks. Also please
-discuss with Major Malfunction or Tony beforehand!
-
-<a href="/previous-talks/">Previous talks</a>
-
-
-<h2>Where</h2>
-
-<A HREF="http://www.phoenixcavendishsquare.co.uk/">The Phoenix</A>, Cavendish Square
-
-Nearest tube (Bakerloo, Central and Victoria lines) and bus stops are
-at Oxford Circus. Transport for London have a journey planner <a href="http://www.tfl.gov.uk/">http://www.tfl.gov.uk/</a>
-
-
-<hr>
-
-<h3>Info/Contact/stuff</h3>
-We've got this handy Google Calendar thing <A href="http://www.google.com/calendar/embed?src=s26o14a4d60qo6ngj5kqpaekt8%40group.calendar.google.com&amp;ctz=Europe/London ">here</A> 
-Twitter : @dc4420, <b>use the tag #dc4420</b>
-Facebook: <A href="https://www.facebook.com/groups/282646421860423/">DC4420</A>
-IRC: #dc4420 on Freenode 
-Mailing List: Get on the mailing list: <A href="http://lists.dc4420.org/cgi-bin/mailman/listinfo/dc4420">here</A>
-(Note: don't set your address to dc4420@ as that won't work.)
-Linkedin : dc4420 group - 680 &amp; growing (June 2015).
-
-Do you read the notes there?
-(No recruiters allowed on unless they've been to the meetings and intro'd themselves to tony and major.)
-
-Talks: Send your info to <A HREF="mailto:talks@dc4420.org?subject=DC4420%20Talk">talks@dc4420.org</A>
-
-Want to change the website? Submit a <a href="https://github.com/dc4420/website/">pull request</a>
-
-</BLOCKQUOTE>
-</div>
-</pre>
-</body>
-</html>
