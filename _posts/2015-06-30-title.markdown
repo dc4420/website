@@ -1,0 +1,68 @@
+---
+layout: post
+title: 
+modified: 2015-07-06 12:45:05 +0100
+category: []
+---
+
+# Micro Talk (5 minutes):
+
+## hackbases - journey to *off the grid*
+
+### Speaker 
+
+Michał Stefanów (michalstefanow.com), Michal Stefanow Ltd
+
+Slides: [bit.ly/hackbases](bit.ly/hackbases)
+
+### Synopsis
+
+The hackbase started as "Cyberhippietotalism" or "CHT#1" in 2011. 
+After 3 years as a rented house, the second version of the base restarted in November 2014, 
+as an off-grid camp & research initiative, scheming to buy first plot of land 
+and settle in the same area: north of Lanzarote, Canary Islands.
+
+<hr>
+
+# 1st Talk (short)
+
+## Multi-Vectored Web Application Exploitation
+
+### Speaker
+
+Freddie Barr-Smith
+
+### Synopsis
+
+In this talk I aim to give a practical introduction to basic web application
+exploitation. Attack vectors such as browser hacking, cross-site scripting
+and SQL injection are often demeaned. There are many critical services contained
+within the application layer such as online banking, social networking and email.
+The vast majority of vulnerabilities found nowadays are injection or XSS based
+and it is possible to leverage access gained via application-layer attacks.
+
+<hr>
+
+# 2nd Talk (long)
+
+## OWASP mobile top ten
+
+### Speaker
+
+Paco Hope [@pacohope](https://twitter.com/@pacohope), Cigital
+
+Paco Hope is a security consultant at Cigital who has helped software firms
+secure their software for nearly 15 years in a variety of industries like
+financial services, retail, and embedded systems. He is the author of two
+books on security, the most recent being the Web Security Testing Cookbook.
+He helps (ISC)² develop the Certified Secure Software Lifecycle Professional
+(CSSLP) and CISSP certifications.
+
+### Synopsis
+
+OWASP’s Mobile Top Ten (MTT) Risks project has been around for a few years and
+has changed shape several times during those years. In 2015 we’re remaking it
+with reference data from several security consultancies. Paco Hope is helping
+to shape the 2015 version of the MTT and will share where it has been, where it
+is, and where it’s going. More info is available at:
+[OWASP Top 10 Mobile Risks](https://www.owasp.org/index.php/Projects/OWASP_Mobile_Security_Project_-_Top_Ten_Mobile_Risks)

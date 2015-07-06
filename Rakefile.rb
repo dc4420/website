@@ -1,13 +1,13 @@
 require "rubygems"
 require "bundler/setup"
 require "stringex"
+require "time"
 
 ## -- Config -- ##
 
 posts_dir       = "_posts"    # directory for blog files
-new_post_ext    = "md"  # default new post file extension when using the new_post task
-new_page_ext    = "md"  # default new page file extension when using the new_page task
-
+new_post_ext    = "markdown"  # default new post file extension when using the new_post task
+new_page_ext    = "markdown"  # default new page file extension when using the new_page task
 
 #############################
 # Create a new Post or Page #
@@ -16,24 +16,29 @@ new_page_ext    = "md"  # default new page file extension when using the new_pag
 # usage rake new_post
 desc "Create a new post in #{posts_dir}"
 task :new_post, :title do |t, args|
+  talk_date = get_stdin("Enter date of talk (YYYY-MM-DD): ")
+
   if args.title
     title = args.title
   else
-    title = get_stdin("Enter a title for your post: ")
+    title = get_stdin("Enter title of post (leave blank if none): ")
   end
-  filename = "#{posts_dir}/#{Time.now.strftime('%Y-%m-%d')}-#{title.to_url}.#{new_post_ext}"
+  
+  filename = "#{posts_dir}/#{talk_date.to_url}-talk.#{new_post_ext}"
   if File.exist?(filename)
     abort("rake aborted!") if ask("#{filename} already exists. Do you want to overwrite?", ['y', 'n']) == 'n'
   end
-  category = get_stdin("Enter category name to group your post in (leave blank for none): ")
-  tags = get_stdin("Enter tags to classify your post (comma separated): ")
+  
   puts "Creating new post: #{filename}"
   open(filename, 'w') do |post|
     post.puts "---"
     post.puts "layout: post"
-    post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    if title.strip().length() > 0
+        post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
+    else
+        post.puts "title: "
+    end
     post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
-    post.puts "category: [#{category}]"
     post.puts "---"
   end
 end
