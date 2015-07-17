@@ -14,7 +14,8 @@ twitter_username: dc4420
 facebook_group_id: 282646421860423 
 facebook_group_name: DC4420
 github: dc4420
-irc: dc4420 Freenode
+# Freenode only
+irc: dc4420 
 mailing_list: http://lists.dc4420.org/cgi-bin/mailman/listinfo/dc4420
 Talks: talks@dc4420.org
 

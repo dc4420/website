@@ -58,7 +58,7 @@
           {% if site.mailing_list %}
           <li>
             <i class="fa fa-envelope"></i>
-            <a href="{{ site.mailinglist }}">
+            <a href="{{ site.mailing_list }}">
                 <span class="username">Mailing List</span>
             </a>
           </li>
@@ -67,7 +67,9 @@
           {% if site.irc %}
           <li>
             <i class="fa fa-plug"></i>
-            <span class="username">#{{ site.irc }}</span>
+            <a href="https://webchat.freenode.net/?channels={{ site.irc }}">
+                <span class="username">{{ site.irc }}</span>
+            </a>
           </li>
           {% endif %}
 
