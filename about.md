@@ -12,16 +12,7 @@ permalink: /about/
 
 ## Dates
 
-Meetings are normally the last Tuesday of the month, except December...
-
-* May 26th - Reinstated
-* June 30th
-* July 28th
-* August 25th
-* September 29th
-* October 27th
-* November 24th
-* December tbc
+Meetings are normally the last Tuesday of the month, except December.
 
 New attendees welcome, just come along!
 (There are no entry fees, and no tickets to book.)
