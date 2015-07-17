@@ -6,7 +6,7 @@
     <div class="page-content">
         <div class="wrapper"> 
         {% for post in site.posts %}
-            <h2 class="link-post"><a href="{{ post.url }}" title="{{ post.title }}">
+            <h2 class="link-post"><a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">
                     {% if post.title %}
                         {{ post.title }} - 
                     {% endif %}
