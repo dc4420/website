@@ -1,0 +1,49 @@
+---
+layout: post
+title: 
+modified: 2015-07-20 13:22:04 +0100
+category: []
+---
+
+# 1st Talk (short)
+
+## Financial Crime and infosec - what has happened before and what is yet to come
+
+### Speaker
+
+Marcelo Mansur, [@thatinfosecrec](https://twitter.com/thatinfosecrec), <thatinfosecrec@redbluesecurity.org>
+
+### Synopsis
+
+This talk will cover a number of financial crimes from boiler room investment
+scams and stock fraud to insider trading and false rumour spreading. Taking a
+look at the rise of hedge funds after the tech bubble burst and detailing a
+number of methods used to cover their tracks, I will be explaining how the
+ever-growing number of cyber criminals will be more equipped than ever to
+profit from their business.
+
+<hr>
+
+# 2nd Talk (short)
+
+## This should not exist: WebEMV
+
+### Speaker
+
+Yvan Janssens, [@friedkiwi](https://twitter.com/friedkiwi)
+
+Yvan is perennially running out of storage space to store IBM minicomputers. His
+friends tend to see him as a very elaborate schemer, with a thorough experience
+in payment systems and bullshitting his way out of messy situations. Paperclips
+are his favourite glitching tool.
+
+### Synopsis
+
+
+Everybody knows that attaching a chip&pin card with a PIN code next to it to the
+internet is probably not a good idea. But that doesn't mean it can't be done.
+Today I will be presenting the 1.0 release of a web-based EMV-CAP OTP generator,
+as used in battery operated form by several large banks. We will explore all the
+design flaws in my implementation, possible ways to fix them and caveats which
+might need some creativity to work around. Source code included!
+
