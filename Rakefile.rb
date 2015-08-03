@@ -38,7 +38,8 @@ task :new_post, :title do |t, args|
     else
         post.puts "title: "
     end
-    post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+    post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+    post.puts "categories: talk"
     post.puts "---"
   end
 end
