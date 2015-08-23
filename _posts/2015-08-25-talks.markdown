@@ -1,0 +1,24 @@
+---
+layout: post
+title: 
+pubdate: 2015-08-23 17:02:55
+categories: talk
+---
+
+# 1st Talk (long)
+
+## Defcon retrospective
+
+### Speaker
+
+Various
+
+### Synopsis
+
+As usual, we're asking attendees of DefCon 23, BSides Las Vegas
+or Blackhat this month to describe their favourite workshops, talks
+or other activities they got up to. This will take the form of a
+series of speakers, for various lengths of time.
+
+More speakers are welcome - please drop a message to {{ site.email }}
+so we can provide a line-up.

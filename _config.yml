@@ -17,7 +17,6 @@ github: dc4420
 # Freenode only
 irc: dc4420 
 mailing_list: http://lists.dc4420.org/cgi-bin/mailman/listinfo/dc4420
-Talks: talks@dc4420.org
 
 # Build settings
 markdown: kramdown
