@@ -38,7 +38,7 @@ task :new_post, :title do |t, args|
     else
         post.puts "title: "
     end
-    post.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+    post.puts "pubdate: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
     post.puts "---"
   end
 end
@@ -62,7 +62,7 @@ task :new_page, :title do |t, args|
     page.puts "layout: page"
     page.puts "permalink: /#{title.to_url}/"
     page.puts "title: \"#{title}\""
-    page.puts "modified: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
+    page.puts "pubdate: #{Time.now.strftime('%Y-%m-%d %H:%M')}"
     page.puts "tags: [#{tags}]"
     page.puts "---"
   end

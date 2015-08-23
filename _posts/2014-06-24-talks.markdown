@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  
-date: 2014-06-24 09:23:47
+pubdate: 2014-06-24 09:23:47
 categories: talk
 ---
 

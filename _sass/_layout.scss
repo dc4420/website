@@ -121,30 +121,30 @@
 }
 
 .footer-col-1 {
-    width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-    width:         calc(35% - (#{$spacing-unit} / 2));
+    width: -webkit-calc(30% - (#{$spacing-unit} / 2));
+    width:         calc(30% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
-    width: -webkit-calc(20% - (#{$spacing-unit} / 2));
-    width:         calc(20% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-3 {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
     width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-@include media-query($on-laptop) {
-    .footer-col-1,
-    .footer-col-2 {
-        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-        width:         calc(50% - (#{$spacing-unit} / 2));
-    }
+.footer-col-3 {
+    width: -webkit-calc(15% - (#{$spacing-unit} / 2));
+    width:         calc(15% - (#{$spacing-unit} / 2));
+}
 
+@include media-query($on-laptop) {
     .footer-col-3 {
         width: -webkit-calc(100% - (#{$spacing-unit} / 2));
         width:         calc(100% - (#{$spacing-unit} / 2));
+    }
+
+    .footer-col-2,
+    .footer-col-3 {
+        width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+        width:         calc(50% - (#{$spacing-unit} / 2));
     }
 }
 
@@ -198,7 +198,7 @@
 }
 
 .post-title {
-    font-size: 42px;
+    font-size: 26px;
     letter-spacing: -1px;
     line-height: 1;
     color: #FFF;
@@ -213,24 +213,15 @@
     color: #BBB;
 
     h1 {
-        font-size:34px;
+        font-size: 24px;
         color: #FFF;
         @include media-query($on-laptop) {
-            font-size: 28px;
+            font-size: 20px;
         }
     }
 
     h2 {
-        font-size: 32px;
-        color: #FFF;
-
-        @include media-query($on-laptop) {
-            font-size: 28px;
-        }
-    }
-
-    h3 {
-        font-size: 24px;
+        font-size: 22px;
         color: #FFF;
 
         @include media-query($on-laptop) {
@@ -238,12 +229,21 @@
         }
     }
 
-    h4 {
-        font-size: 20px;
+    h3 {
+        font-size: 18px;
         color: #FFF;
 
         @include media-query($on-laptop) {
-            font-size: 18px;
+            font-size: 16px;
+        }
+    }
+
+    h4 {
+        font-size: 16px;
+        color: #FFF;
+
+        @include media-query($on-laptop) {
+            font-size: 14px;
         }
     }
 }

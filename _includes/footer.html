@@ -2,17 +2,27 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
-
     <div class="footer-col-wrapper">
+
       <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <p class="text">Upcoming dates</p>
+        <ul class="future-events">
+          <li>August 25th</li>
+          <li>September 29th</li>
+          <li>October 27th</li>
+          <li>November 24th</li>
+          <li>December <i class="small-caps">TBC</i></li>
         </ul>
       </div>
 
       <div class="footer-col  footer-col-2">
+        <h2 class="footer-heading">{{ site.title }}</h2>
+        <p class="text">
+          Got a question? Email <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </p>
+      </div>
+
+      <div class="footer-col  footer-col-3">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -79,9 +89,7 @@
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
-        <p class="text">{{ site.description }}</p>
-      </div>
+
     </div>
 
   </div>
