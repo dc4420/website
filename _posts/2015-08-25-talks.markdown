@@ -7,7 +7,7 @@ categories: talk
 
 # 1st Talk (long)
 
-## Defcon retrospective
+## Defcon 23, etc or CCCamp retrospective
 
 ### Speaker
 
@@ -15,10 +15,10 @@ Various
 
 ### Synopsis
 
-As usual, we're asking attendees of DefCon 23, BSides Las Vegas
-or Blackhat this month to describe their favourite workshops, talks
+As usual, we're asking attendees of DefCon 23, BSides Las Vegas,
+Blackhat or CCCamp this month to describe their favourite workshops, talks
 or other activities they got up to. This will take the form of a
 series of speakers, for various lengths of time.
 
-More speakers are welcome - please drop a message to {{ site.email }}
+More speakers are welcome (we have a projector with HDMI & VGA inputs if you want to show slides) - please drop a message to {{ site.email }}
 so we can provide a line-up.
