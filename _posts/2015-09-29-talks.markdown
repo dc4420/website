@@ -1,0 +1,50 @@
+---
+layout: post
+title: 
+pubdate: 2015-08-27 13:40:00
+categories: talk
+---
+
+# 1st Talk (short)
+
+## Defcon 23, etc or CCCamp retrospective - Part 2
+
+### Speaker
+
+Chris Sumner, (various?)
+
+### Synopsis
+
+As usual, we're asking attendees of DefCon 23, BSides Las Vegas,
+Blackhat or CCCamp this month to describe their favourite workshops, talks
+or other activities they got up to. This will take the form of a
+series of speakers, for various lengths of time.
+
+More speakers are welcome (we have a projector with HDMI & VGA inputs if you want to show slides)
+- please drop a message to {{ site.email }} so we can provide a line-up.
+
+# 2nd Talk (short)
+
+## A brief introduction to fuzzing using american fuzzy lop
+
+### Speaker
+
+Hugh Davenport
+
+### Synopsis
+
+Fuzzing is the art of applying random data in the hopes of finding inputs
+to programs that cause unexpected behaviours. Traditionally, this has taken
+a deterministic approach which is akin to something to do with monkeys,
+typewriters, and Shakespear. Enter american fuzzy lop (afl), not just a 
+[weird looking bunny][1], but actually a new generation fuzzer from Google
+that takes into account code coverage.
+
+This talk will give a brief overview of afl-fuzz, show off its features, and
+gives an example of things it has found (and are public) in PHP.
+
+[1]: https://en.wikipedia.org/wiki/American_Fuzzy_Lop  "weird looking bunny"
+
+# 3rd Talk (short)
+
+To be confirmed
