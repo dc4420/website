@@ -17,6 +17,12 @@ Meetings are normally the last Tuesday of the month, except December.
 New attendees welcome, just come along!
 (There are no entry fees, and no tickets to book.)
 
+## Rules
+
+18+ Sorry, the pub's license only allows people 18 and over after 6pm.
+
+Please be respectful to our speakers, other attendees, and the venue staff.
+
 ## Talk nights
 
 Format is usually two talks: a primary 1 hour (ish) and,
