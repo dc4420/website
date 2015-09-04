@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Chris Sumner ([@TheSuggmeister]), Thomas Fischer ([@FVT])
+Chris Sumner [@TheSuggmeister](https://twitter.com/TheSuggmeister), Thomas Fischer [@FVT](https://twitter.com/FVT)
 
 ### Synopsis
 
@@ -23,8 +23,6 @@ series of speakers, for various lengths of time.
 More speakers are welcome (we have a projector with HDMI & VGA inputs if you want to show slides)
 - please drop a message to {{ site.email }} so we can provide a line-up.
 
-[1]: https://twitter.com/TheSuggmeister  "@TheSuggmeister"
-[2]: https://twitter.com/FVT  "@FVT"
 
 # 2nd Talk (short)
 
@@ -40,14 +38,26 @@ Fuzzing is the art of applying random data in the hopes of finding inputs
 to programs that cause unexpected behaviours. Traditionally, this has taken
 a deterministic approach which is akin to something to do with monkeys,
 typewriters, and Shakespear. Enter american fuzzy lop (afl), not just a 
-[weird looking bunny][3], but actually a new generation fuzzer from Google
+[weird looking bunny][1], but actually a new generation fuzzer from Google
 that takes into account code coverage.
 
 This talk will give a brief overview of afl-fuzz, show off its features, and
 gives an example of things it has found (and are public) in PHP.
 
-[3]: https://en.wikipedia.org/wiki/American_Fuzzy_Lop  "weird looking bunny"
+[1]: https://en.wikipedia.org/wiki/American_Fuzzy_Lop  "weird looking bunny"
 
 # 3rd Talk (short)
 
-To be confirmed
+## PinMaster 6000: Things You Should Know Already About Carding
+
+### Speaker
+
+Yvan Janssens [@friedkiwi](https://twitter.com/friedkiwi)
+
+### Synopsis
+
+A new product less advanced than the PinMaster 9000, but just as fun. This device allows you to perform goal-oriented synergies on standard payment cards to achieve vaguely defined personal goals, mainly involving PIN-less payment card usage. Basic introduction to carding and how to kill it before it lays eggs included for free. Batteries sold separately. 
+
+### Bio
+
+Yvan has a long history of turning bad decisions into positive outcomes. He has mostly focused his energy on applying destructive force against brittle state machines, pushing them through boundaries their creators could've never imagine existed. When not massaging code, you can find Yvan in London making decisions about what type of unhealthy food he will devour for dinner or planning his next crazy project that will once again change how people look at computer security.
