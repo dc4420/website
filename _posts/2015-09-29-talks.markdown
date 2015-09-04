@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Chris Sumner, (various?)
+Chris Sumner ([@TheSuggmeister]), Thomas Fischer ([@FVT])
 
 ### Synopsis
 
@@ -22,6 +22,9 @@ series of speakers, for various lengths of time.
 
 More speakers are welcome (we have a projector with HDMI & VGA inputs if you want to show slides)
 - please drop a message to {{ site.email }} so we can provide a line-up.
+
+[1]: https://twitter.com/TheSuggmeister  "@TheSuggmeister"
+[2]: https://twitter.com/FVT  "@FVT"
 
 # 2nd Talk (short)
 
@@ -37,13 +40,13 @@ Fuzzing is the art of applying random data in the hopes of finding inputs
 to programs that cause unexpected behaviours. Traditionally, this has taken
 a deterministic approach which is akin to something to do with monkeys,
 typewriters, and Shakespear. Enter american fuzzy lop (afl), not just a 
-[weird looking bunny][1], but actually a new generation fuzzer from Google
+[weird looking bunny][3], but actually a new generation fuzzer from Google
 that takes into account code coverage.
 
 This talk will give a brief overview of afl-fuzz, show off its features, and
 gives an example of things it has found (and are public) in PHP.
 
-[1]: https://en.wikipedia.org/wiki/American_Fuzzy_Lop  "weird looking bunny"
+[3]: https://en.wikipedia.org/wiki/American_Fuzzy_Lop  "weird looking bunny"
 
 # 3rd Talk (short)
 
