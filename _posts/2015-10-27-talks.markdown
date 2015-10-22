@@ -1,0 +1,34 @@
+---
+layout: post
+title: 
+pubdate: 2015-10-22 12:27:00
+categories: talk
+---
+
+# 1st Talk
+
+## Better Late Than Never - A Router Exploit Kit
+
+### Speaker
+
+Ben Layer [@benlayer](https://twitter.com/benlayer)
+
+### Synopsis
+
+Presenting RouterRux, a proof of concept router exploit kit which flashes custom malicious firmware on home routers. In this talk we follow the journey of creating a new attack vector, and the problems along the way. Including bits and pieces such as metasploit, web application security, procrastination, and the internet of things.
+
+# 2nd Talk
+
+## size\_t does matter
+
+### Speaker
+
+Mika Boström
+
+### Synopsis
+
+A short presentation on hash extension attacks. What they are, how they work,
+and why they matter. And to keep things simple, use SHA1 as the example.
+
+If time permits, discussion may expand into the SHA-3 design criteria.
+
