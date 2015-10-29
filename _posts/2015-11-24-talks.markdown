@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-pubdate: 2015-10-28 13:37:00
+pubdate: 2015-10-28 13:37:01
 categories: talk
 ---
 
@@ -17,5 +17,9 @@ Sevan Janiyan [@sevanjaniyan](https://twitter.com/sevanjaniyan)
 
 Security in the open source software world as seen from someone working on a cross platform packaging system and dealing with advisories for the software
 that's packaged and general observation
+
+# 2nd Talk
+
+## ??? 
 
 If you would like to provide a talk please drop a message to {{ site.email }} (We have a projector with HDMI & VGA inputs if you want to show slides.)
