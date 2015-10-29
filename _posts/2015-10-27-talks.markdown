@@ -17,6 +17,10 @@ Ben Layer [@benlayer](https://twitter.com/benlayer)
 
 Presenting RouterRux, a proof of concept router exploit kit which flashes custom malicious firmware on home routers. In this talk we follow the journey of creating a new attack vector, and the problems along the way. Including bits and pieces such as metasploit, web application security, procrastination, and the internet of things.
 
+Links:
+* [Demo video](https://www.youtube.com/watch?v=qFrRi6uYhHw)
+* [Slides](https://github.com/tdzmont/routerrux)
+
 # 2nd Talk
 
 ## size\_t does matter
