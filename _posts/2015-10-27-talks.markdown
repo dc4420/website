@@ -37,3 +37,7 @@ and why they matter. And to keep things simple, use SHA1 as the example.
 
 If time permits, discussion may expand into the SHA-3 design criteria.
 
+Links:
+
+- [Slides](http://bostik.iki.fi/dc4420/size_t-does-matter--hash-length-extensions.pdf)
+- [Mirror]({{ '/slides/2015-10-27/size_t-does-matter--hash-length-extensions.pdf'  | prepend: site.baseurl | prepend: site.url }})
