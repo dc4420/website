@@ -1,0 +1,21 @@
+---
+layout: post
+title: 
+pubdate: 2015-10-28 13:37:00
+categories: talk
+---
+
+# 1st Talk
+
+## Adventures in Open Source Software: Dealing with Security
+
+### Speaker
+
+Sevan Janiyan [@sevanjaniyan](https://twitter.com/sevanjaniyan)
+
+### Synopsis
+
+Security in the open source software world as seen from someone working on a cross platform packaging system and dealing with advisories for the software
+that's packaged and general observation
+
+If you would like to provide a talk please drop a message to {{ site.email }} (We have a projector with HDMI & VGA inputs if you want to show slides.)
