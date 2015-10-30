@@ -22,4 +22,4 @@ that's packaged and general observation
 
 ## ??? 
 
-If you would like to provide a talk please drop a message to {{ site.email }} (We have a projector with HDMI & VGA inputs if you want to show slides.)
+If you would like to provide a talk please drop a message to [{{ site.email }}](mailto:{{ site.email }}) (We have a projector with HDMI & VGA inputs if you want to show slides.)
