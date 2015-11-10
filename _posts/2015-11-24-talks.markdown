@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-pubdate: 2015-10-28 13:37:01
+pubdate: 2015-11-10 13:37:02
 categories: talk
 ---
 
@@ -15,11 +15,17 @@ Sevan Janiyan [@sevanjaniyan](https://twitter.com/sevanjaniyan)
 
 ### Synopsis
 
-Security in the open source software world as seen from someone working on a cross platform packaging system and dealing with advisories for the software
-that's packaged and general observation
+Security in the open source software world as seen from someone working
+on a cross platform packaging system. Covering the factors outside of
+actually doing the research to discover vulnerabilities which play a
+vital, yet indirect role in making advisories easy or extremely painful
+to digest when ensuring affected software is covered correctly and what
+that means for the consumers of said software.
 
 # 2nd Talk
 
 ## ??? 
+
+### You?
 
 If you would like to provide a talk please drop a message to [{{ site.email }}](mailto:{{ site.email }}) (We have a projector with HDMI & VGA inputs if you want to show slides.)
