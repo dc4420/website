@@ -24,8 +24,13 @@ that means for the consumers of said software.
 
 # 2nd Talk
 
-## ??? 
+## VM detection using ACPI tables
 
-### You?
+### Speaker
 
-If you would like to provide a talk please drop a message to [{{ site.email }}](mailto:{{ site.email }}) (We have a projector with HDMI & VGA inputs if you want to show slides.)
+Graham Sutherland [@gsuberland](https://twitter.com/gsuberland)
+
+### Synopsis
+
+Some last-minute fun stuff on a surprisingly under-discussed topic.
+
