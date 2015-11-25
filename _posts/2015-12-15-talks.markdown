@@ -1,0 +1,47 @@
+---
+layout: post
+title: 
+pubdate: 2015-11-25 13:37:00
+categories: talk
+---
+
+# December, date TBC
+
+Pre-Christmas drinks, meal (eg in Chinatown) or something else.
+
+Activity suggestions to: [{{ site.email }}](mailto:{{ site.email }})
+
+Survey (eg doodlepoll) for preferred date & activity soon ..
+
+---
+
+# Coming up in January ...
+
+# Title
+
+## The Pagentry of Lateral Movement
+
+### Speaker
+
+Stuart Morgan, MWR InfoSecurity
+
+### Synopsis
+
+In order to meaningfully compromise a client, you need to take advantage of
+every opportunity to gather information and laterally move around the network.
+Understanding the structure of a network that you are attempting to compromise
+is a necessity these days, which can also be a challenge during attack 
+simulation exercises, especially on windows networks which have a complicated
+active directory structure.
+
+This talk will discuss ways of abusing Pageant (PuTTY's SSH agent) on a fully
+patched Windows host, including a demonstration of a meterpreter extension
+which can tunnel SSH agent traffic in a manner that is almost undetectable
+with default logging options, and the way that an existing reconnaissance tool
+from 2012 was improved to make its output easier to use during a simulated
+attack or penetration test. 
+
+This talk explains the development journey resulting in these tools,
+especially when there was no particularly useful documentation available,
+and should encourage others to develop and share tools and techniques
+within the security industry.
