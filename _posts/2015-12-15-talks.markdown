@@ -13,11 +13,13 @@ Activity suggestions to: [{{ site.email }}](mailto:{{ site.email }})
 
 Survey (eg doodlepoll) for preferred date & activity soon ..
 
+
 ---
 
 # Coming up in January ...
 
-# Title
+
+# 1st Talk
 
 ## The Pagentry of Lateral Movement
 
