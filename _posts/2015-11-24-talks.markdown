@@ -24,6 +24,7 @@ that means for the consumers of said software.
 
 Links:
 
+- [Accompanying blogpost](https://www.geeklan.co.uk/?p=2014)
 - [Slides](https://www.geeklan.co.uk/files/pkgsrc/dc4420-2015.pdf)
 - [Mirror]({{ '/slides/2015-11-24/dc4420-2015.pdf'  | prepend: site.baseurl | prepend: site.url }})
 
@@ -40,3 +41,6 @@ Graham Sutherland [@gsuberland](https://twitter.com/gsuberland)
 
 Some last-minute fun stuff on a surprisingly under-discussed topic.
 
+Links:
+
+- [Mirror]({{ '/slides/2015-11-24/acpi_vm_detect.pdf'  | prepend: site.baseurl | prepend: site.url }})
