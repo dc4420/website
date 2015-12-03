@@ -1,17 +1,17 @@
 ---
 layout: post
 title: 
-pubdate: 2015-11-25 13:37:00
+pubdate: 2015-11-25 13:37:01
 categories: talk
 ---
 
-# December, date TBC
+# December, Tuesday 15th 7pm
 
-Pre-Christmas drinks, meal (eg in Chinatown) or something else.
+Probably *upstairs* at The Phoenix, Cavendish Square.
 
-Activity suggestions to: [{{ site.email }}](mailto:{{ site.email }})
+Pre-Christmas drinks, chat, ...
 
-Survey (eg doodlepoll) for preferred date & activity soon ..
+Alternate venue suggestions to: [{{ site.email }}](mailto:{{ site.email }})
 
 
 ---
