@@ -1,22 +1,25 @@
 ---
 layout: post
 title: 
-pubdate: 2015-11-25 13:37:01
+pubdate: 2015-11-25 13:37:02
 categories: talk
 ---
 
 # December, Tuesday 15th 7pm
 
-Probably *upstairs* at The Phoenix, Cavendish Square.
+*Ground floor bar* at The Phoenix, Cavendish Square.
 
-Pre-Christmas drinks, chat, ...
+Pre-Christmas drinks, chat, planning for next year ...
 
-Alternate venue suggestions to: [{{ site.email }}](mailto:{{ site.email }})
+# 9pm some people will move on to a restaurant, probably in Chinatown.
 
+.
+.
+.
 
 ---
 
-# Coming up in January ...
+# Coming soon, in January 2016 ...
 
 
 # 1st Talk
