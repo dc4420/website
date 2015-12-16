@@ -7,7 +7,7 @@ categories: talk
 
 # 1st Talk
 
-## The Pagentry of Lateral Movement
+## The Pageantry of Lateral Movement
 
 ### Speaker
 
