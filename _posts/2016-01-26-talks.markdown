@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Stuart Morgan, MWR InfoSecurity
+Stuart Morgan [@ukstufus](https://twitter.com/ukstufus), MWR InfoSecurity [@mwrinfosecurity](https://twitter.com/mwrinfosecurity)
 
 ### Synopsis
 
