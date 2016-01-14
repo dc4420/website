@@ -36,8 +36,16 @@ within the security industry.
 
 # 2nd Talk
 
-## ??? 
+## Stop Cybercrime, Protect Privacy, Save World
 
-### You?
+### Speaker
 
-If you would like to provide a talk please drop a message to [{{ site.email }}](mailto:{{ site.email }}) (We have a projector with HDMI & VGA inputs if you want to show slides.)
+Chris Monteiro [@Deku_shrub](https://twitter.com/Deku_shrub), [pirate.london](http://pirate.london)
+
+### Synopsis
+
+With the poor state of computer security and the ubiquity of data breaches,
+we appear to be headed in a one-way road to a post-privacy society. Some insight
+into the history and contemporary structure of cybercrime and financial fraud aims
+to illustrate the key players and methodologies of the shadow online economy, its
+implications and maybe even some infosec solutions with wider applications.
