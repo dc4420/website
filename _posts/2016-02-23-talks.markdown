@@ -1,0 +1,41 @@
+---
+layout: post
+title: 
+pubdate: 2016-02-21 23:06:00
+categories: talk
+---
+
+# 1st Talk
+
+## SAML -- Security Assertion Markup Language -- Yep its broken.
+
+### Speaker
+
+Glyn Wintle [@glynwintle](https://twitter.com/glynwintle)
+
+### Synopsis
+
+Glyn will explain how SAML works (yes there will be lots of
+xkcd cartoons), the flaws found in standard deployments and
+give example in most implementations, walk through some of
+the attack techniques that work with any xml based protocol
+and digital signatures before going deeper into some more
+technobabble just for you.
+
+Security Assertion Markup Language (SAML, pronounced sam-el)
+is an XML-based, open-standard data format for exchanging
+authentication and authorization data between parties, in
+particular, between an identity provider and a service
+provider. Think enterprise single signon, used by governments,
+large companies, web sites, what could possibly go wrong?
+
+
+# 2nd Talk
+
+## ???
+
+### You?
+
+If you would like to provide a talk please drop a message to
+[{{ site.email }}](mailto:{{ site.email }}) (We have a
+projector with HDMI & VGA inputs if you want to show slides.)
