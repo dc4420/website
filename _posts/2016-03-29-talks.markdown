@@ -1,0 +1,59 @@
+---
+layout: post
+title: 
+pubdate: 2016-02-24 01:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## An Apologia (not an Apology) for Professional Security Certifications
+
+
+### Speaker
+
+Paco Hope [@pacohope](https://twitter.com/pacohope)
+
+### Synopsis
+
+There are many professional certifications in information security. At times
+knowledgeable security experts dismiss them as useless (meaning they don’t
+tell you anything) or even worse (that they give a false qualification).
+There’s a lot that goes into these exams, and much of it is backed up by good
+science and solid practices. We’ll start with a few opinions on what
+certifications are and what they aren’t. We’ll talk about psychometrics and
+what goes into a exam item. We’ll talk about the exam lifecycle and ISO/IEC 17024
+(did you know there was an ISO standard for managing professional certifications?
+Of course there is…) Having laid a bit of groundwork, Paco is volunteering to be
+a punching bag, effigy, and/or scapegoat for a big hunk of the professional
+certification industry. Got a view on professional certs? Are they worth getting?
+Why or why not? We’ll have some open (and maybe a bit sweary) dialogue about the
+plusses and minuses of certifications. It is important to note that Paco speaks
+from his own opinions and experiences here and does not represent (ISC)² or Cigital
+in this discussion. NDAs govern a lot of the professional certification development
+work, so some of these discussions will have to be abstract and general.
+
+### About Paco Hope
+
+For about 14 years Paco has been a security consultant helping banks, retailers,
+and start-ups write secure software. He’s done a little of everything from secure
+user stories, to secure code, to secure design reviews. He’s held the CISSP for
+13 years and the CSSLP for 8 years (paying those AMFs and turning in those CPEs
+year after year) and he writes exam items for both those exams. When he’s not busy
+at work, you can find him
+* smoking cigars
+* drinking whisky
+* travelling
+* all of the above
+
+
+
+# 2nd Talk
+
+## ???
+
+### You?
+
+If you would like to provide a talk please drop a message to
+[{{ site.email }}](mailto:{{ site.email }}) (We have a
+projector with HDMI & VGA inputs if you want to show slides.)
