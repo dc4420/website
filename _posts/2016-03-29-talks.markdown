@@ -42,6 +42,7 @@ user stories, to secure code, to secure design reviews. He's held the CISSP for
 13 years and the CSSLP for 8 years (paying those AMFs and turning in those CPEs
 year after year) and he writes exam items for both those exams. When he's not busy
 at work, you can find him
+
 * smoking cigars
 * drinking whisky
 * travelling
