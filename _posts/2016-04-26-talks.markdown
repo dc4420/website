@@ -1,0 +1,32 @@
+---
+layout: post
+title: 
+pubdate: 2016-04-26 14:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## Professionally Paranoid Systems Design
+
+
+### Speaker
+
+Mika Boström
+
+### Synopsis
+
+A betting exchange lies in the intersection of Gambling and FinTech, and has to meet an
+interesting set of regulations. This talk explores the ways to make the most of the imposed
+requirements.
+
+
+# 2nd Talk
+
+## ???
+
+### You?
+
+If you would like to provide a talk please drop a message to
+[{{ site.email }}](mailto:{{ site.email }}) (We have a
+projector with HDMI & VGA inputs if you want to show slides.)
