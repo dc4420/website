@@ -25,8 +25,16 @@ requirements.
 
 ## ???
 
-### You?
+### Synopsis
 
-If you would like to provide a talk please drop a message to
-[{{ site.email }}](mailto:{{ site.email }}) (We have a
-projector with HDMI & VGA inputs if you want to show slides.)
+A last-minute presentation prompted by Mika's talk, providing the auditor's view of an audit.
+
+
+# 3rd Talk
+
+Erwin Kooi [@erwinkooi](https://twitter.com/erwinkooi)
+
+### Synopsis
+
+A last-minute talk on the security challenges facing energy distribution in the Netherlands.
+
