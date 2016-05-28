@@ -15,23 +15,25 @@ Adam Laurie [@rfidiot](https://twitter.com/rfidiot)
 
 ### Synopsis
 
-Everything must be connected right now! Go! Do it! It’ll be great….
+Everything must be connected right now! Go! Do it! It'll be great...
 
-Then I’ll be able to order my Iced Half Caff Ristretto Venti 4-Pump Sugar Free Cinnamon Dolce Soy Skinny Latte so I can pick it up on the way to work as I cycle past the coffeee shop without breaking a sweat… Marvelous!
+Then I'll be able to order my Iced Half Caff Ristretto Venti 4-Pump Sugar Free Cinnamon Dolce Soy Skinny Latte so I can pick it up on the way to work as I cycle past the coffeee shop without breaking a sweat... Marvelous!
 
-Wait, did I say “I’ll be able to order”? Sorry, what I meant was: “My bicycle will be able to order”, because, obviously, my bicycle saddle is connected to my home WiFi, so when it detects my bum hitting it’s surface, it will immediately notify my Home Automation system to take a picture of the pinboard in the kitchen which has an Epaper display showing a QRCode of exactly what’s today’s flavour of the month, which will be decoded and sent to the central Node.js system, which will…. Oh, f*ck it. I’ll just have a nice cup of tea instead.
+Wait, did I say "I'll be able to order"? Sorry, what I meant was: "My bicycle will be able to order", because, obviously, my bicycle saddle is connected to my home WiFi, so when it detects my bum hitting it's surface, it will immediately notify my Home Automation system to take a picture of the pinboard in the kitchen which has an Epaper display showing a QRCode of exactly what's today's flavour of the month, which will be decoded and sent to the central Node.js system, which will... Oh, f*ck it. I'll just have a nice cup of tea instead.
 
-In this talk we will discuss the fact that although time (mostly) moves in a linear direction, security doesn’t. In fact, it has an alarming tendancy to go backwards, sideways, and, very often, around and around in circles.
+In this talk we will discuss the fact that although time (mostly) moves in a linear direction, security doesn't. In fact, it has an alarming tendancy to go backwards, sideways, and, very often, around and around in circles.
 
-In our work at Aperture Labs, we spend our lives pulling embedded systems apart, only to find the same old issues hiding amongst the silicon and bits and bytes. There was a time when this didn’t matter too much… Yes, we could bypass some copy protection code and load a pirated game, or we could hop over an authentication routine and p0wn your router… Of course, that is BAD with a capital B, but nobody died. Cities didn’t go dark. Planes didn’t fall out of the sky…
+In our work at Aperture Labs, we spend our lives pulling embedded systems apart, only to find the same old issues hiding amongst the silicon and bits and bytes. There was a time when this didn't matter too much... Yes, we could bypass some copy protection code and load a pirated game, or we could hop over an authentication routine and p0wn your router... Of course, that is BAD with a capital B, but nobody died. Cities didn't go dark. Planes didn't fall out of the sky...
 
 So what happens when we take all our tech and connect it up to everthing around it, including our fridges, freezers, TVs, thermostats and anything else we can think of. And then we connect that to the Internet. And then, just for the hell of it, why not pass some laws that say we should connect our electricity, gas and water meters up as well? Sound like a plan?
 
 Did I say Hilarious?
 
-I think I meant something else…
+I think I meant something else...
+
 
 # 2nd Talk
+
 ## Black-Button attacks - all your channel are belong to us!
 
 ### Speaker
