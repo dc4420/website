@@ -20,6 +20,11 @@ A betting exchange lies in the intersection of Gambling and FinTech, and has to 
 interesting set of regulations. This talk explores the ways to make the most of the imposed
 requirements.
 
+Links:
+
+- [Slides](http://bostik.iki.fi/dc4420/smarkets-paranoid-infrastructure--distributable.pdf)
+- [Mirror]({{ '/slides/2016-04-26/smarkets-paranoid-infrastructure--distributable.pdf'  | prepend: site.baseurl | prepend: site.url }})
+
 
 # 2nd Talk
 
