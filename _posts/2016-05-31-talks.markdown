@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Adam Laurie [@rfidiot](https://twitter.com/rfidiot)
+Adam Laurie ([@rfidiot](https://twitter.com/rfidiot))
 
 ### Synopsis
 

@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Sevan Janiyan [@sevanjaniyan](https://twitter.com/sevanjaniyan)
+Sevan Janiyan ([@sevanjaniyan](https://twitter.com/sevanjaniyan))
 
 ### Synopsis
 
@@ -35,7 +35,7 @@ Links:
 
 ### Speaker
 
-Graham Sutherland [@gsuberland](https://twitter.com/gsuberland)
+Graham Sutherland ([@gsuberland](https://twitter.com/gsuberland))
 
 ### Synopsis
 

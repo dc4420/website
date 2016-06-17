@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Georgi Geshev [@munmap](https://twitter.com/munmap), MWR InfoSecurity [@mwrinfosecurity](https://twitter.com/mwrinfosecurity)
+Georgi Geshev ([@munmap](https://twitter.com/munmap)), (MWR InfoSecurity [@mwrinfosecurity](https://twitter.com/mwrinfosecurity))
 
 ### Synopsis
 
@@ -50,7 +50,7 @@ surface of an MPLS network.
 
 ### Speaker
 
-Chris Monteiro [@Deku_shrub](https://twitter.com/Deku_shrub), [pirate.london](http://pirate.london)
+Chris Monteiro ([@Deku_shrub](https://twitter.com/Deku_shrub)), ([pirate.london](http://pirate.london))
 
 ### Synopsis
 

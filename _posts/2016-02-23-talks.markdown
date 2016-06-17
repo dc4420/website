@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Glyn Wintle [@glynwintle](https://twitter.com/glynwintle)
+Glyn Wintle ([@glynwintle](https://twitter.com/glynwintle))
 
 ### Synopsis
 
