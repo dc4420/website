@@ -1,0 +1,41 @@
+---
+layout: post
+title: 
+pubdate: 2016-06-17 01:00:00
+categories: talk
+---
+
+We have one confirmed talk (1 hr) for our 28th June meeting, we expect to announce a second (~30 min) talk shortly.
+
+
+# 1st Talk
+
+## Token Based Authentication for eCommerce Application Architecture
+
+### Speaker
+
+Tom Keetch ([@tkeetch](https://twitter.com/tkeetch))
+
+
+### Synopsis
+
+Using authentication token technologies such as SAML, JWT or node.js Iron can have significant benefits for the 
+scalability and flexibility of web applications - especially for the implementation of Single Sign On (SSO) 
+across multiple websites, or as part of a micro-services architecture. But there are also significant design 
+decisions and trade-offs to be made. This talk will discuss when authentication tokens can be useful, design 
+considerations for implementers , what to look for as an attacker and how those bugs could be exploited.
+
+
+A previous talk from Glyn Wintle from the February DC4420 focussed on SAML, whereas this talk will go into more 
+detail about JWT and Iron for node.js.
+
+ 
+
+### Speaker Bio:
+
+Tom is the Head of Application Security for the Yoox Net-A-Porter Group (ynap.com) and is interested in Security 
+Architecture, Design and applied cryptography. His previous talk at DC4420 was about NFC security for mobile 
+devices in June 2014.
+
+
+
