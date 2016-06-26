@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-pubdate: 2016-06-17 01:00:00
+pubdate: 2016-06-26 02:00:00
 categories: talk
 ---
 
@@ -37,5 +37,17 @@ Tom is the Head of Application Security for the Yoox Net-A-Porter Group (ynap.co
 Architecture, Design and applied cryptography. His previous talk at DC4420 was about NFC security for mobile 
 devices in June 2014.
 
+
+# 2nd Talk
+
+## JAKU - Anatomy of a Botnet Campaign
+
+### Speaker
+
+Andy Settle
+
+### Synopsis
+
+-
 
 
