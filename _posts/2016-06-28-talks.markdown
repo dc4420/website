@@ -50,7 +50,7 @@ Andy Settle ([@iC3N1](https://twitter.com/iC3N1))
 
 JAKU is an investigation into a global botnet campaign with many thousands of victim computers. 
 
-JAKU demonstrates the collection of victims into resilient groupings as well as grouping some victims into a much smaller but highly targeted set with apparent connections with North Korea.  In effect, the en-­masse herding victims while conducting highly
+JAKU demonstrates the collection of victims into resilient groupings as well as grouping some victims into a much smaller but highly targeted set with apparent connections with North Korea.  In effect, the en-masse herding victims while conducting highly
 targeted attacks on specific victims through the execution of concurrent operations with common TTPs.
 
 It will take you through the journey of discovery, the twists and turns of an investigation and some general observations.
