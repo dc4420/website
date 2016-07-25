@@ -1,0 +1,43 @@
+---
+layout: post
+title: 
+pubdate: 2016-07-25 13:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## Sea of Holes: the Investigatory Powers Bill
+
+### Speaker
+
+Wendy M. Grossman ([@wendyg](https://twitter.com/wendyg))
+
+### Synopsis
+
+Briefing on the UK government's Investigatory Powers Bill currently going through parliament.
+
+
+# 2nd Talk
+
+## What’s in your pocket?
+
+### Speaker
+
+Henri Watson ([@henriwatson](https://twitter.com/henriwatson))
+
+### Synopsis
+
+Although we're starting to see computers built into lightbulbs
+and refrigerators, we've been quietly surrounded by smaller computers
+all along. SIM cards, modern passports, student cards, transit cards,
+and access cards contain microprocessors featuring limited storage and
+cryptographic abilities. This talk explores what data smartcards store
+and how they protect the stored data.
+
+### Bio
+
+Born in California and raised in the Dominican Republic, Henri is a
+student at Abertay University and will be the Ethical Hacking society’s
+secretary for the 2016-2017 academic year.
+
