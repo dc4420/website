@@ -24,5 +24,40 @@ are created and distributed around the World presented to multi-platform devices
 Interesting Warm-up Fact: The Dodd-Frank Act is NOT a fantasy 70s comedy duo - Rather a Wall Street Financial Services reform act introduced in 2010 - Ooh I say!
 
 
-# 2nd Talk  Details soon ...
+# 2nd Talk
 
+## A bunch of random and often time loud ramblings from a Defcon 24 speaker and black badge holder.
+
+### Speakers:
+
+Bigezy ([@bigezy_](https://twitter.com/@bigezy_))
+
+Mr C.
+
+### Synopsis
+
+Taking the time to say hello to the crowd and rant a bit about the speaking experience I had at Defcon this year. 
+I will also be able to say a few things I couldn't when I was on stage about the 
+([Pinworm](https://www.github.com/bigezy/pinworm)) tool for metadata man in the middle I released at Defcon this year. 
+Also, I was in attendance at the June DC 4420 meeting and I met a dude that runs 4400 machines that render special 
+effects for a bunch of movies you might have heard of. Should be good times and we will finish the stories upstairs.
+
+ 
+
+### About bigezy
+
+Bigezy is a critical infrastructure defender and has spoken at many conferences including Blackhat, Defcon, Troopers, 
+Hackito, H2HC, and many others. He also hold a defcon black badge from Defcon 11 for wardriving. During Defcon 24 he 
+released Pinworm a tool for man in the middle of social media metadata and also released a different toolset CyPSA for 
+cyber physical impact analysis at BsidesLV.  Between those two releases bigezy somehow found the time to captain the 
+victorious Hacker Jeopardy team "We fucked it up!" 11 beers drank during the final round.
+
+ 
+
+### Mr. C
+
+Mr. C. met bigezy after the DC 4420 meeting upstairs in the Phoenix at June. His relationship started by challenging 
+Bigezy to drink  a strong Belgian beer and walk out the door. Mr C works in the special effects industry and is 
+responsible for the administration of over 4400 cores that render special effects for many awesome movies. He has a 
+few great stories to tell and he wanted to come and say hello as he felt especially welcomed by the DC 4420 community 
+last June in the Phoenix.
