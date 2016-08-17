@@ -38,7 +38,7 @@ Mr C.
 
 Taking the time to say hello to the crowd and rant a bit about the speaking experience I had at Defcon this year. 
 I will also be able to say a few things I couldn't when I was on stage about the 
-([Pinworm](https://www.github.com/bigezy/pinworm)) tool for metadata man in the middle I released at Defcon this year. 
+Pinworm tool for metadata man in the middle I released at Defcon this year. 
 Also, I was in attendance at the June DC 4420 meeting and I met a dude that runs 4400 machines that render special 
 effects for a bunch of movies you might have heard of. Should be good times and we will finish the stories upstairs.
 
