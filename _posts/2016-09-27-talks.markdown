@@ -1,0 +1,41 @@
+---
+layout: post
+title: 
+pubdate: 2016-09-08 01:00:00
+categories: talk
+---
+
+We have two confirmed talks for our 28th June meeting.
+
+
+# 1st Talk
+
+## FREEMAN - The Perils of Security Abandonware
+
+### Speaker
+
+Andy Settle ([@iC3N1](https://twitter.com/iC3N1))
+
+### Synopsis
+
+Everyone loves OllyDBG.  For many reasons, including the
+number and diversity of plug-ins available.  Many of the plug-ins are
+used within both the security research community as well as by some bad
+people.  Some even have vulnerabilities,  we know this because we have
+found one (maybe two-ish).  Knowing this allows us to pop-calc, but this
+not really the story we want to tell.  The fact that OllyDBG and some of
+it's plug-ins are now 'abandonware' serves as an object lesson to us in
+the security community, and one we need to learn from before pointing
+and laughing at users who still have macros enabled by default in
+Microsoft Office.
+
+
+# 2nd Talk
+
+## TBC
+
+### Speaker
+
+### Synopsis
+
+Awaiting synopsis before announcing this talk.
