@@ -29,10 +29,24 @@ Microsoft Office.
 
 # 2nd Talk
 
-## TBC
+## Why I'm Better Than H D Moore
 
-### Speaker
+### Nick Drage ([@SonOfSunTzu](https://twitter.com/SonOfSunTzu))
 
 ### Synopsis
 
-Awaiting synopsis before announcing this talk.
+As a testing lab H D Moore tried setting up many machines connected
+through KVMs, he sensibly gave up and ran everything as virtual machines
+instead.
+
+I tried harder.
+
+I've been geeking and working from home in the same space for over a
+decade, and for various reasons I've persevered with my KVM setup,
+gradually adding more and more devices and functionality. In that time
+I've learnt a lot about what does and doesn't work, what to use and what
+to avoid, as well as how to manage your productivity and attention.
+I'll give you a ten year head start on how to build or change your
+current environment.
+
+Alternatively this is a talk about feature creep.
