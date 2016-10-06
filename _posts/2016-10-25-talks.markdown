@@ -1,0 +1,42 @@
+---
+layout: post
+title: 
+pubdate: 2016-10-06 01:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## What Can WatchDogs Teach Us About Cyber Security?
+
+### Speaker
+
+Nick Drage ([@SonOfSunTzu](https://twitter.com/SonOfSunTzu))
+
+### Synopsis
+
+Watch_Dogs is an Ubisoft video game, released in 2014, set in a
+fictionalised Chicago where a central network of computers connects
+everyone and everything using ctOS, the Central Operating System. You
+play as Aiden Pearce, ""a brilliant hacker and former thug"",
+manipulating ctOS to your own ends from your smartphone, the game
+combines an open world single player mode with an "always-on" feature
+whereby your current session may be invaded by another online player at
+any time and without your consent or knowledge.
+
+The way the game was and is promoted, designed, coded, updated,
+administered, and played provides numerous illustrations of the
+challenges within Information Security that we all face in one way or
+another. In this talk I'll take you, Inception like, through the
+different levels of understanding the game and what it can teach us
+about those challenges - all the way in to the point of view of the main
+protagonist, all the way out to the viewpoint of the online gamer,
+stopping off at Smart Cities, Security Analytics, and the value of
+Metadata along the way.
+
+
+# 2nd Talk
+
+## ???
+
+To be determined.
