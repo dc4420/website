@@ -39,8 +39,22 @@ display drivers at the October meeting the presenter will be bringing at
 least two different presenting platforms to the meeting and is currently
 watching several Overhead Projectors on eBay. )
 
+
 # 2nd Talk
 
-## ???
+## Fake Your Way Through Minis Live On Stage
 
-To be determined.
+### Speaker
+
+Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
+
+### Synopsis
+
+Ever wanted to know how to log in into an AS/400 system and do rm -rf? Or just the default credentials to carry out $overpaid_assessment? Wait no more, these dirty thirty minutes will educate you about how not to look like a complete moron in front of an InfoWindow Terminal.
+
+This talk will include:
+
+* Free unmetered cursing
+* Live demo with 110% chance of failing
+* Yours truly dragging a full AS/400 set up through the London Underground network to a pub basement
+
