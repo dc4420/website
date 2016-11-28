@@ -44,6 +44,8 @@ general and, where applicable, vendor specific best
 practices and recommendations on reducing the attack
 surface of an MPLS network.
 
+<hr>
+
 # 2nd Talk
 
 ## Stop Cybercrime, Protect Privacy, Save World

@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Chris Sumner [@TheSuggmeister](https://twitter.com/TheSuggmeister), Thomas Fischer [@FVT](https://twitter.com/FVT)
+Chris Sumner ([@TheSuggmeister](https://twitter.com/TheSuggmeister)), Thomas Fischer ([@FVT](https://twitter.com/FVT))
 
 ### Synopsis
 
@@ -23,6 +23,7 @@ series of speakers, for various lengths of time.
 More speakers are welcome (we have a projector with HDMI & VGA inputs if you want to show slides)
 - please drop a message to {{ site.email }} so we can provide a line-up.
 
+<hr>
 
 # 2nd Talk
 
@@ -44,5 +45,5 @@ that takes into account code coverage.
 This talk will give a brief overview of afl-fuzz, show off its features, and
 gives an example of things it has found (and are public) in PHP.
 
-[1]: https://en.wikipedia.org/wiki/American_Fuzzy_Lop  "weird looking bunny"
+[1]: [https://en.wikipedia.org/wiki/American_Fuzzy_Lop]  "weird looking bunny"
 

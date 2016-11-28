@@ -29,6 +29,7 @@ particular, between an identity provider and a service
 provider. Think enterprise single signon, used by governments,
 large companies, web sites, what could possibly go wrong?
 
+<hr>
 
 # 2nd Talk
 

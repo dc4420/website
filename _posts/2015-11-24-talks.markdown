@@ -28,6 +28,7 @@ Links:
 - [Slides](https://www.geeklan.co.uk/files/pkgsrc/dc4420-2015.pdf)
 - [Mirror]({{ '/slides/2015-11-24/dc4420-2015.pdf'  | prepend: site.baseurl | prepend: site.url }})
 
+<hr>
 
 # 2nd Talk
 

@@ -25,6 +25,7 @@ Links:
 - [Slides](http://bostik.iki.fi/dc4420/smarkets-paranoid-infrastructure--distributable.pdf)
 - [Mirror]({{ '/slides/2016-04-26/smarkets-paranoid-infrastructure--distributable.pdf'  | prepend: site.baseurl | prepend: site.url }})
 
+<hr>
 
 # 2nd Talk
 
@@ -34,6 +35,7 @@ Links:
 
 A last-minute presentation prompted by Mika's talk, providing the auditor's view of an audit.
 
+<hr>
 
 # 3rd Talk
 

@@ -49,7 +49,7 @@ and it is possible to leverage access gained via application-layer attacks.
 
 ### Speaker
 
-Paco Hope [@pacohope](https://twitter.com/@pacohope), Cigital
+Paco Hope ([@pacohope](https://twitter.com/@pacohope)), Cigital
 
 Paco Hope is a security consultant at Cigital who has helped software firms
 secure their software for nearly 15 years in a variety of industries like

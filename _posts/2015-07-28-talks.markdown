@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Marcelo Mansur, [@thatinfosecrec](https://twitter.com/thatinfosecrec), <thatinfosecrec@redbluesecurity.org>
+Marcelo Mansur ([@thatinfosecrec](https://twitter.com/thatinfosecrec), thatinfosecrec at redbluesecurity.org)
 
 ### Synopsis
 
@@ -30,7 +30,7 @@ profit from their business.
 
 ### Speaker
 
-Yvan Janssens, [@friedkiwi](https://twitter.com/friedkiwi)
+Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
 
 Yvan is perennially running out of storage space to store IBM minicomputers. His
 friends tend to see him as a very elaborate schemer, with a thorough experience

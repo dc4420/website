@@ -7,7 +7,7 @@ categories: talk
 
 # 1st Speaker
 
-Tom Keetch [@tkeetch](http://twitter.com/tkeetch)
+Tom Keetch ([@tkeetch](http://twitter.com/tkeetch))
 
 ## Bio
 
@@ -41,9 +41,9 @@ We had an improvised second talk instead.
 
 # 2nd Speakers
 
-Adam Laurie, Aperature Labs (@rfidiot)
+Adam Laurie, Aperature Labs ([@rfidiot](http://twitter.com/rfidiot))
 
-Tony Naggs (@xa329)
+Tony Naggs ([@xa329](http://twitter.com/xa329))
 
 ## Title
 
@@ -55,5 +55,5 @@ The first Beta RFIDlers ordered through KickStarter have shipped.
 
 The source code and schematics are open for non-commercial use -
 
-https://github.com/ApertureLabsLtd/RFIDler
+[https://github.com/ApertureLabsLtd/RFIDler](https://github.com/ApertureLabsLtd/RFIDler)
 

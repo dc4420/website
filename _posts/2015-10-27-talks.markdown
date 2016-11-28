@@ -22,6 +22,8 @@ Links:
 - [Demo video](https://www.youtube.com/watch?v=qFrRi6uYhHw)
 - [Slides](https://github.com/tdzmont/routerrux)
 
+<hr>
+
 # 2nd Talk
 
 ## size\_t does matter

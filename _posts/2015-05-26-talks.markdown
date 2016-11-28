@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Adam Laurie, Aperture Labs Ltd [@rfidiot](http://twitter.com/rfidiot)
+Adam Laurie, Aperture Labs Ltd ([@rfidiot](http://twitter.com/rfidiot))
 
 ### Synopsis
 

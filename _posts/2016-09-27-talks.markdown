@@ -26,6 +26,7 @@ the security community, and one we need to learn from before pointing
 and laughing at users who still have macros enabled by default in
 Microsoft Office.
 
+<hr>
 
 # 2nd Talk
 
