@@ -15,6 +15,8 @@ Nick Drage ([@SonOfSunTzu](https://twitter.com/SonOfSunTzu))
 
 ### Synopsis
 
+*Note: this talk was postponed due to technical to November*
+
 Watch_Dogs is an Ubisoft video game, released in 2014, set in a
 fictionalised Chicago where a central network of computers connects
 everyone and everything using ctOS, the Central Operating System. You
@@ -34,6 +36,7 @@ protagonist, all the way out to the viewpoint of the online gamer,
 stopping off at Smart Cities, Security Analytics, and the value of
 Metadata along the way.
 
+<hr>
 
 # 2nd Talk
 

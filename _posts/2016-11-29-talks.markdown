@@ -15,7 +15,7 @@ Nick Drage ([@SonOfSunTzu](https://twitter.com/SonOfSunTzu))
 
 ### Synopsis
 
-(Postponed from last month, due to tech issues, originally titled "What Can WatchDogs Teach Us About Cyber Security?")
+*(Postponed from last month, due to tech issues, originally titled "What Can WatchDogs Teach Us About Cyber Security?")*
 
 With the very recent release of WATCH_DOGS 2 it's timely to look back at
 the original WATCH_DOGS video game. Set in a fictionalised Chicago, in
@@ -32,12 +32,12 @@ This talk will take you, Inception like, through the different levels of
 a player's understanding of the game, and how they can use that
 understanding to gain a disproportionate advantage during gameplay.
 
-( Please note, originally this talk was entitled "What Can WatchDogs
+*( Please note, originally this talk was entitled "What Can WatchDogs
 Teach Us About Cyber Security?" but the presenter realised that there
 wasn't that much to learn; also after fighting and losing against Linux
 display drivers at the October meeting the presenter will be bringing at
 least two different presenting platforms to the meeting and is currently
-watching several Overhead Projectors on eBay. )
+watching several Overhead Projectors on eBay. )*
 
 <hr>
 
