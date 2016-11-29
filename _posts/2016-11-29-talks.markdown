@@ -1,11 +1,29 @@
 ---
 layout: post
 title: 
-pubdate: 2016-11-23 01:00:00
+pubdate: 2016-11-23 03:00:00
 categories: talk
 ---
 
-# 1st Talk
+# Lightning Talk
+
+## [totalism.org](http://totalism.org/) hackbase in 2016 and beyond
+
+### Speaker
+
+David Poto?nik ([@dcht00](https://twitter.com/dcht00)), founder
+
+### Synopsis
+
+A hackbase is like a hackerspace, in which people may also live in, so they don't need to pay rent*, so they can quit work*, so they can focus more fully on mitigating an impending disaster of their choice*! [*somewhat]
+
+The [totalism.org](http://totalism.org/) base is located in Lanzarote, Canary Islands. It's an open infrastructure and protocol set, self-organised and used by anyone or any group.
+
+After a previous dc4420 short talk about the project in June 2015 by an external project follower, I'll do an overview of what's new since then. I'll sketch my current perspective of culture and nature, the project's role in it, and some possible future directions.
+
+<hr>
+
+# Main Talk
 
 ## What Happens When A Video Game About Hacking Meets The "Hacker Mindset"?
 
@@ -41,7 +59,7 @@ watching several Overhead Projectors on eBay. )*
 
 <hr>
 
-# 2nd Talk
+# Short Talk
 
 ## Fake Your Way Through Minis Live On Stage
 
