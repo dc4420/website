@@ -1,0 +1,41 @@
+---
+layout: post
+title: 
+pubdate: 2017-01-05 03:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## *TBC*
+
+### Speaker
+
+???
+
+### Synopsis
+
+
+<hr>
+
+# 2nd Talk
+
+## Investigating the Origins of RSA Public Keys
+
+([Best Paper Award @ USENIX Security 2016](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/svenda))
+
+### Speaker
+
+Dan Cvrcek ([@DanCvrcek](https://twitter.com/DanCvrcek))
+
+*Original paper by Petr Svenda et al (Masaryk University, Czech Republic), presented by Dan Cvrcek (including some practical results by Enigma Bridge)*
+
+### Synopsis
+
+Can bits of an RSA public key leak information about design and implementation choices such as the prime generation
+algorithm? We analysed over 60 million freshly generated key pairs from 22 open- and closed-source libraries and from 16 different smartcards,revealing significant leakage. The bias introduced by different choices is sufficiently large to classify a probable library or smartcard with high accuracy based only on the values of public keys.
+
+Such a classification can be used to decrease the anonymity set of users of anonymous mailers or operators of linked Tor hidden services, to quickly detect keys from the same vulnerable library or to verify a claim of use of secure hardware by a remote party.
+
+The talk will be based on Usenix Security 2016 paper and will also provide fresh details from our continuous analysis of more libraries and smartcards we perform after the conference itself.
+

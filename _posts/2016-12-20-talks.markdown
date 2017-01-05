@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-pubdate: 2016-11-30 13:37:00
+pubdate: 2016-11-30 13:37:01
 categories: talk
 ---
 
@@ -10,13 +10,4 @@ categories: talk
 **Ground floor bar** at The Phoenix, Cavendish Square W1.
 
 Pre-Christmas drinks, chat, planning for next year ...
-
-
-<hr>
-
-## Our next event with talks will be Tuesday 31st January ..
-
-Planned talks:
-
-* Investigating the Origins of RSA Public Keys, *Dan Cvrcek*
 
