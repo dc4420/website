@@ -17,6 +17,8 @@ Meetings are normally the last Tuesday of the month, except December.
 New attendees welcome, just come along!
 (There are no entry fees, and no tickets to book.)
 
+If you'd like to be reminded of future events, add [the ical feed](/feed.ics) to your calendar.
+
 ## Rules
 
 18+ Sorry, the pub's license only allows people 18 and over after 6pm.

@@ -1,0 +1,20 @@
+---
+layout: null
+---
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//{{ site.title }}//EN
+SUMMARY:"{{ site.title }} Events"
+X-WR-CALDESC:"{{ site.title }} Events"
+X-WR-CALNAME:"{{ site.title }} Events"
+{% for post in site.posts limit:10 %}
+BEGIN:VEVENT
+SUMMARY:{{ site.title }}
+DTSTAMP:{{ post.eventstart | date: "%Y%m%dT%H%M00" }}
+DTSTART;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventstart | date: "%Y%m%dT%H%M00" }}
+DTEND;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventend | date: "%Y%m%dT%H%M00" }}
+UID:{{ post.eventstart | date: "%Y%m%d" }}@{{ site.title }}
+LOCATION:"The Phoenix, Cavendish Square, London, W1G 0PP"
+URL:{{ post.url | prepend: site.baseurl | prepend: site.url }}
+END:VEVENT{% endfor %}
+END:VCALENDAR
