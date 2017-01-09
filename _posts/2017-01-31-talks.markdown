@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Dr. Cédric Lévy-Bencheton, IOActive
+Dr. C&eacute;dric L&eacute;vy-Bencheton, IOActive
 
 ### Synopsis
 
@@ -26,16 +26,16 @@ exist in the community to make future IoT deployments more safe and secure.
 
 ### Speaker Bio
 
-Dr. Cédric Lévy-Bencheton is Managing Consultant at IOActive, the only security consultancy with a global 
+Dr. C&eacute;dric L&eacute;vy-Bencheton is Managing Consultant at IOActive, the only security consultancy with a global 
 presence and deep expertise in hardware, software, and wetware assessments. He promotes the need for security 
 in every domain of our society, with a focus on the Internet of Things.
 
-Previously, Dr. Cédric Lévy-Bencheton was expert in cyber security at ENISA, the European Union Agency for 
+Previously, Dr. C&eacute;dric L&eacute;vy-Bencheton was expert in cyber security at ENISA, the European Union Agency for 
 Network and Information Security, where he developed the area of Smart Infrastructures and the concept of 
 security for Safety. Before that, he designed critical networks for public transports. He was also a researcher 
 in telecommunications.
 
-Dr. Cédric Lévy-Bencheton has obtained a Ph.D. in Telecommunications from University Lyon in 2011.
+Dr. C&eacute;dric L&eacute;vy-Bencheton has obtained a Ph.D. in Telecommunications from University Lyon in 2011.
 
 <hr>
 
