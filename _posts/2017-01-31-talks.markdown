@@ -1,20 +1,41 @@
 ---
 layout: post
 title: 
-pubdate: 2017-01-05 03:00:00
+pubdate: 2017-01-05 03:00:01
 categories: talk
 ---
 
 # 1st Talk
 
-## *TBC*
+## The Importance of Security for Safety in IoT
 
 ### Speaker
 
-???
+Dr. Cédric Lévy-Bencheton, IOActive
 
 ### Synopsis
 
+With the rise of the Internet of Things, every object becomes connected to the Internet. These objects bring 
+us added-value services in our daily life, by exchanging data on networks and computers. This becomes a real 
+concern when manufacturer IoT-ify safety devices without thinking about their security.
+
+In this talk, we try to raise awareness on what could be the consequences of insecure IoT safety devices. As 
+an example, we present common vulnerabilities found in cars and propose solutions that should improve the safety 
+of citizens through security. We extend the discussion to Critical Infrastructures and what current efforts 
+exist in the community to make future IoT deployments more safe and secure.
+
+### Speaker Bio
+
+Dr. Cédric Lévy-Bencheton is Managing Consultant at IOActive, the only security consultancy with a global 
+presence and deep expertise in hardware, software, and wetware assessments. He promotes the need for security 
+in every domain of our society, with a focus on the Internet of Things.
+
+Previously, Dr. Cédric Lévy-Bencheton was expert in cyber security at ENISA, the European Union Agency for 
+Network and Information Security, where he developed the area of Smart Infrastructures and the concept of 
+security for Safety. Before that, he designed critical networks for public transports. He was also a researcher 
+in telecommunications.
+
+Dr. Cédric LÉVY-BENCHETON has obtained a Ph.D. in Telecommunications from University Lyon in 2011.
 
 <hr>
 
