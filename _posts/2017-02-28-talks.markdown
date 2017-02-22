@@ -7,7 +7,7 @@ categories: talk
 
 # 1st Talk
 
-##  Hackers gonna hack – But why?
+##  Hackers gonna hack - But why?
 
 ### Speaker
 
@@ -20,7 +20,7 @@ security incident and how this can help the info-sec community. There are wide s
 influence everyone who takes part in online communities. These processes are important; they determine how we understand, 
 perceive and interact with the members of our own group and the groups around us. It will be discussed how, regardless 
 of how much of an anarchist or rebel we might be, individuals are strongly influenced by the norms and identity of their 
-group – and whether this is a good thing or not. This talk will give examples of the significance of the group processes 
+group - and whether this is a good thing or not. This talk will give examples of the significance of the group processes 
 in trust, decision making and risk with in online hacking communities, and the parallels with the info-sec community. 
 The talk will conclude by sharing some the data collected for this project as well as the reactions of the communities 
 to the research. 
