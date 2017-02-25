@@ -11,7 +11,7 @@ categories: talk
 
 ### Speaker
 
-Helen Thackray, PhD Researcher (@ ([@hel_ty](https://twitter.com/hel_ty))
+Helen Thackray, PhD Researcher ([@hel_ty](https://twitter.com/hel_ty))
 
 ### Synopsis
 
@@ -25,17 +25,16 @@ in trust, decision making and risk with in online hacking communities, and the p
 The talk will conclude by sharing some the data collected for this project as well as the reactions of the communities 
 to the research. 
 
-<hr>
+<hr>  
 
-Second talk wanted for our February meeting!
+# 2nd Talk
 
-Typically we have a ~1 hour InfoSec talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+##  Inside our Toys
 
-We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, social engineering.
+### Speaker
 
-We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented overseas.
+Kev Sheldrake ([@kevsheldrake](https://twitter.com/kevsheldrake))
 
-The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+### Synopsis
 
-Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-
+How to hack into an embedded device.
