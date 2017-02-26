@@ -20,7 +20,9 @@ security incident and how this can help the info-sec community. There are wide s
 influence everyone who takes part in online communities. These processes are important; they determine how we understand, 
 perceive and interact with the members of our own group and the groups around us. It will be discussed how, regardless 
 of how much of an anarchist or rebel we might be, individuals are strongly influenced by the norms and identity of their 
-group - and whether this is a good thing or not. This talk will give examples of the significance of the group processes 
+group - and whether this is a good thing or not.
+
+This talk will give examples of the significance of the group processes 
 in trust, decision making and risk with in online hacking communities, and the parallels with the info-sec community. 
 The talk will conclude by sharing some the data collected for this project as well as the reactions of the communities 
 to the research. 
@@ -37,4 +39,14 @@ Kev Sheldrake ([@kevsheldrake](https://twitter.com/kevsheldrake))
 
 ### Synopsis
 
-How to hack into an embedded device.
+While we all like to make, modify and re-appropriate technology, some of us like to break it for, um, fun and profit.
+I will explain how I go about finding vulnerabilities in IoT devices, looking at hardware, software and cryptographic
+attacks that can give us root on our toys.
+
+Rather than focus on specific bugs in particular devices, this talk will describe a number of generic attacks that
+can be attempted against a wide variety of networked 'things'. The attacks range from the trivial that anyone with
+a soldering iron and a few bits and bobs could attempt, through those that require moderate linux knowledge, to
+those that require a disassembler and a knowledge of reverse engineering.
+
+It should be of interest to anyone who would like to root their own shiny, IoT devices.
+
