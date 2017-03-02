@@ -1,0 +1,39 @@
+---
+layout: post
+title: 
+pubdate: 2017-3-02 16:00:00
+categories: talk
+---
+
+# 1st Talk
+
+##  USB-HID Attacks
+
+Speaker and synopsis details soon ...
+
+<hr>
+
+# Second talk wanted for our March meeting
+
+Typically we have a ~1 hour InfoSec talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+
+We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, social engineering.
+
+We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented overseas.
+
+The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+
+Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+
+<hr>
+
+## Hacker Survey 
+
+February's talk "Hackers gonna hack - But why?" featured the in-progress PhD research of Helen Thackray, [@hel_ty](https://twitter.com/hel_ty).
+
+Here is a link to Helen's survey, via a posting to Reddit:
+
+[https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/](https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/)
+
+
+
