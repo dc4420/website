@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 
-pubdate: 2017-3-02 16:00:00
+title: DC4420 - 28 March 2017
+pubdate: 2017-3-02 17:00:00
 categories: talk
 ---
 
@@ -29,7 +29,7 @@ Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 ## Hacker Survey 
 
-February's talk "Hackers gonna hack - But why?" featured the in-progress PhD research of Helen Thackray, [@hel_ty](https://twitter.com/hel_ty).
+February's talk ["Hackers gonna hack - But why?"]({% post_url 2017-02-28-talks %}) featured the in-progress PhD research of Helen Thackray, [@hel_ty](https://twitter.com/hel_ty).
 
 Here is a link to Helen's survey, via a posting to Reddit:
 
