@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-pubdate: 2017-3-02 17:00:00
+pubdate: 2017-3-02 17:01:00
 categories: talk
 ---
 
@@ -13,17 +13,21 @@ Speaker and synopsis details soon ...
 
 <hr>
 
-# Second talk wanted for our March meeting
+# 2nd Talk
 
-Typically we have a ~1 hour InfoSec talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+##  Exploring the Infrared World
 
-We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, social engineering.
+### Speaker
 
-We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented overseas.
+Dominic Spill ([@dominicgs](https://twitter.com/dominicgs))
 
-The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+### Synopsis
 
-Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+There have never been more infrared signals, from the remote control toys and televisions that we all know, to audio distribution systems and unintentional emissions from electronic equipment.
+
+Reusing existing receivers has allowed researchers to decode IR signals in the past. However, that technique lacks the ability to detect arbitrary communication signals without prior knowledge of protocol. This is exactly the type of problem that we solve every day with Software Defined Radio (SDR), so we decided to apply those Digital Signal Processing techniques to Infrared.
+
+Using low cost open source hardware of our own design, we have been able to apply our traditional wireless reverse engineering techniques to infrared signals, giving us the opportunity to sniff and inject. In this second part in a series we will show entirely new infrared systems that we have investigated and demonstrate the ways in which our hardware platform can meddle with them
 
 <hr>
 
