@@ -1,15 +1,23 @@
 ---
 layout: post
 title: 
-pubdate: 2017-3-02 17:01:00
+pubdate: 2017-3-02 17:02:00
 categories: talk
 ---
 
 # 1st Talk
 
-##  USB-HID Attacks
+##  USB-HID, Meterpreter and Why Keyboard Programming Sucks
 
-Speaker and synopsis details soon ...
+### Speaker
+
+Mike Westmacott
+
+### Synopsis
+
+This is a short story about how to get back into hackery, explaining a path from an old email through (re)-learning USB-HID protocols, the schizophrenic world of Arduino, raging at why keyboard programming is so difficult, and how to not get confused when developing software that requires multiple languages on different platforms, through to a happy demo.
+
+The demo involves removing another brick when tackling locked down, air-gapped environments - and if the demo gods are smiling you should see a meterpreter session running over USB-HID. The talk will also examine what the different strategies for protecting against such attacks.
 
 <hr>
 
