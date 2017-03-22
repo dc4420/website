@@ -35,7 +35,7 @@ There have never been more infrared signals, from the remote control toys and te
 
 Reusing existing receivers has allowed researchers to decode IR signals in the past. However, that technique lacks the ability to detect arbitrary communication signals without prior knowledge of protocol. This is exactly the type of problem that we solve every day with Software Defined Radio (SDR), so we decided to apply those Digital Signal Processing techniques to Infrared.
 
-Using low cost open source hardware of our own design, we have been able to apply our traditional wireless reverse engineering techniques to infrared signals, giving us the opportunity to sniff and inject. In this second part in a series we will show entirely new infrared systems that we have investigated and demonstrate the ways in which our hardware platform can meddle with them
+Using low cost open source hardware of our own design, we have been able to apply our traditional wireless reverse engineering techniques to infrared signals, giving us the opportunity to sniff and inject. In this second part in a series we will show entirely new infrared systems that we have investigated and demonstrate the ways in which our hardware platform can meddle with them.
 
 <hr>
 
