@@ -37,15 +37,6 @@ Reusing existing receivers has allowed researchers to decode IR signals in the p
 
 Using low cost open source hardware of our own design, we have been able to apply our traditional wireless reverse engineering techniques to infrared signals, giving us the opportunity to sniff and inject. In this second part in a series we will show entirely new infrared systems that we have investigated and demonstrate the ways in which our hardware platform can meddle with them.
 
-<hr>
-
-## Hacker Survey 
-
-February's talk ["Hackers gonna hack - But why?"]({{ post_url 2017-02-28-talks }}) featured the in-progress PhD research of Helen Thackray, [@hel_ty](https://twitter.com/hel_ty).
-
-Here is a link to Helen's survey, via a posting to Reddit:
-
-[https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/](https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/)
 
 
 

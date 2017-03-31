@@ -1,0 +1,39 @@
+---
+layout: post
+title: 
+pubdate: 2017-4-01 09:00:00
+categories: talk
+---
+
+# 1st Talk
+
+##  Some hypotheses on burnout and stress related illnesses in relation to Cyber Security practitioners with a 'Hacker Mindset'
+
+### Speaker
+
+Chris (Suggy) Sumner, [@TheSuggmeister](https://twitter.com/TheSuggmeister)
+
+### Synopsis
+
+This talk introduces a number of hypotheses, which if correct, suggest that Cyber Security practitioners with a 'Hacker Mindset' may be more likely to experience lower levels of well-being and greater levels of stress related illnesses than their peers and general society. If this is the case, what might be contributing factors and what are the broader implications for the industry and organizational/national security?
+
+The talk explores the relationships between Cyber Security practitioners with a 'Hacker Mindset', well-being, stress related illnesses, pervasive developmental and personality disorders, personality traits and environmental factors such as childhood experiences, adult experiences and job related variables; it introduces existing research, research applied in different contexts and findings from a new, unpublished study specifically examining the relationship between Autism Spectrum Quotient and Burnout.
+
+A shortage of skilled Cyber Security professionals has been identified as a key barrier to the growth of the security sector and the ability for nations and organizations to respond to Cyber threats. Understanding well-being and stress related symptoms in relation to the Cyber Security sector is an important area and relatively unexplored area of study, as many of the personality traits that characterize a good Cyber Security practitioner may also predispose them to depression or stress symptoms.
+
+<hr>
+
+30 min talk wanted for 2nd talk slot for April
+
+<hr>
+
+## Hacker Survey 
+
+February's talk ["Hackers gonna hack - But why?"]({{ post_url 2017-02-28-talks }}) featured the in-progress PhD research of Helen Thackray, [@hel_ty](https://twitter.com/hel_ty).
+
+Here is a link to Helen's survey, via a posting to Reddit:
+
+[https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/](https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/)
+
+
+
