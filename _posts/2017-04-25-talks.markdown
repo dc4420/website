@@ -23,7 +23,11 @@ A shortage of skilled Cyber Security professionals has been identified as a key 
 
 <hr>
 
-30 min talk wanted for 2nd talk slot for April
+# 2nd Talk wanted for our April meeting
+
+Approx 30 min talk (technical, fun, or community related) wanted for 2nd talk slot for April!
+
+Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
 
 <hr>
 
