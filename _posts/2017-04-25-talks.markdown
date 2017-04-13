@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 
-pubdate: 2017-4-01 09:00:00
+pubdate: 2017-4-01 09:00:02
 categories: talk
 ---
 
@@ -28,16 +28,6 @@ A shortage of skilled Cyber Security professionals has been identified as a key 
 Approx 30 min talk (technical, fun, or community related) wanted for 2nd talk slot for April!
 
 Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-
-<hr>
-
-## Hacker Survey 
-
-February's talk ["Hackers gonna hack - But why?"]({{ post_url 2017-02-28-talks }}) featured the in-progress PhD research of Helen Thackray, [@hel_ty](https://twitter.com/hel_ty).
-
-Here is a link to Helen's survey, via a posting to Reddit:
-
-[https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/](https://www.reddit.com/r/Defcon/comments/5ufve6/call_for_participants_doctoral_study_xpost/)
 
 
 
