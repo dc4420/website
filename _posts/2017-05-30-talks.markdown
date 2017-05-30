@@ -5,15 +5,38 @@ pubdate: 2017-05-14 22:00:00
 categories: talk
 ---
 
-Talks wanted for our May meeting!
+# 1st Talk
 
-Typically we have a ~1 hour serious talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+## Building Your Own Tor-centric ISP for Fun and (non)Profit
 
-We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, or social engineering.
+### Speaker
 
-We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented overseas.
+Gareth Llewellyn, [@NetworkString](https://twitter.com/NetworkString)
 
-The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+### Synopsis
 
-Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+Following the Snowden revelations and the UK government's revival
+of the Snooper's Charter legislation, Gareth was one of many people who
+accepted the EFF Tor challenge. Unfortunately, many UK ISPs' colocation
+providers do not appreciate Tor exits and, after several abruptly
+terminated servers, he decided to build his own privacy centric,
+non-profit ISP so he could operate Tor exits and offer Unix shells, etc.
+on his own terms. This talk explores the process of becoming a local
+Internet registry in Europe, dealing with RIR polices such as IPv4
+exhaustion, Tor abuse complaints, and the deployment of a broadband
+product that only has a Tor bridge instead of a next hop at the end
+of a DSL connection.
+
+<hr>
+
+
+# 2nd Talk
+
+## TLS everywhere made practical
+
+### Speaker
+
+Mika Boström
+
+Steps taken and lessons learned when deploying TLS everywhere.
 
