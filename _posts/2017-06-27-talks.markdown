@@ -1,0 +1,18 @@
+---
+layout: post
+title:
+pubdate: 2017-06-19 13:00:00
+categories: talk
+---
+
+Talks wanted for our June meeting!
+
+Typically we have a ~1 hour serious talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+
+We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, or social engineering.
+
+We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented abroad.
+
+The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+
+Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
