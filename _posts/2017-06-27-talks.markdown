@@ -29,7 +29,7 @@ David Wong is a Security Consultant at the Cryptography Services practice of NCC
 
 ### Speaker
 
-Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
+Yvan Janssens, [@friedkiwi](https://twitter.com/friedkiwi)
 
 ### Synopsis
 
