@@ -1,11 +1,11 @@
 ---
 layout: post
 title:
-pubdate: 2017-06-20 11:00:00
+pubdate: 2017-06-20 21:00:00
 categories: talk
 ---
 
-# Talk
+# 1st Talk
 
 ## SHA-3 vs the world
 
@@ -23,14 +23,14 @@ David Wong is a Security Consultant at the Cryptography Services practice of NCC
 
 <hr>
 
-### Second talk wanted for our June meeting!
+# 2nd Talk
 
-Typically we have a ~1 hour serious talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+## Building a small supercomputer for fun and (mostly) profit
 
-We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, or social engineering.
+### Speaker
 
-We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented abroad.
+Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
 
-The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+### Synopsis
 
-Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+Cryptocurrency mining is currently having a big boom again, and so many people are building GPU rigs that the supply of AMD and nvidia GPUs is running dry. I'm planning to give a short talk about how I build my 50 GPU farm, the challenges I faced and how I've overcome them while maintaining structural integrity and fire safety precautions in my flat. I'll also cover the tiny little hacks I've done to be even more frugal, and lower the BOM of each rig to the tiniest amount of possible while minimising risk and maximising profit. 
