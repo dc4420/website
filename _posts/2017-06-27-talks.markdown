@@ -23,7 +23,7 @@ David Wong is a Security Consultant at the Cryptography Services practice of NCC
 
 <hr>
 
-Second talk wanted for our June meeting!
+### Second talk wanted for our June meeting!
 
 Typically we have a ~1 hour serious talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
 
