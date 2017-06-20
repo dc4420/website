@@ -1,11 +1,29 @@
 ---
 layout: post
 title:
-pubdate: 2017-06-19 13:00:00
+pubdate: 2017-06-20 11:00:00
 categories: talk
 ---
 
-Talks wanted for our June meeting!
+# Talk
+
+## SHA-3 vs the world
+
+### Speaker
+
+David Wong, [@lyon01_david](https://twitter.com/lyon01_david)
+
+### Synopsis
+
+Since Keccak has been selected as the winner of the SHA-3 competition in 2012, a myriad of different hash functions have been trending. From BLAKE2 to KangarooTwelve we'll cover what hash functions are out there, what is being used, and what you should use. Extending hash functions, we’ll also discover STROBE, a symmetric protocol framework derived from SHA-3.
+
+### Bio
+
+David Wong is a Security Consultant at the Cryptography Services practice of NCC Group. He has been part of several publicly funded open source audits such as OpenSSL and Let's Encrypt. He has conducted research in many domains in cryptography, publishing whitepapers and sharing results at various conferences including DEF CON and ToorCon as well as giving a recurrent cryptography course at Black Hat. He has contributed to standards like TLS 1.3 and the Noise Protocol Framework. He has found vulnerabilities in many systems including CVE-2016-3959 in the Go programming language and a bug in SHA-3's derived KangarooTwelve reference implementation. Prior to NCC Group, David graduated from the University of Bordeaux with a Masters in Cryptography, and prior to this from the University of Lyon and McMaster University with a Bachelor in Mathematics.
+
+<hr>
+
+Second talk wanted for our June meeting!
 
 Typically we have a ~1 hour serious talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
 
