@@ -5,16 +5,35 @@ pubdate: 2017-08-23 17:00:00
 categories: talk
 ---
 
-# Talks wanted for our August meeting!
+# 1st Talk
 
-Typically we have a ~1 hour serious talk and after a short break ~30 minute talk which could be InfoSec, other technology, or a less technical theme.
+## Is visualization still necessary?
 
-It's the first meeting after Defcon 25, so we'll also likely have a discussion about favourite talks and experiences from those who went to Vegas.
+### Speaker
 
-We welcome a variety of subjects of interest to InfoSec people, whether you are an expert or novice asking for help with your projects, including security techniques, cryptography, incident response, law & policy, privacy, safety, data protection, social context, or social engineering.
+Bigezy ([@bigezy_](https://twitter.com/@bigezy_))
 
-We host a mix of experienced and novice presenters, maybe practicing part of your presentation before a bigger conference, or bringing back to London a talk you have presented abroad.
+### Synopsis
 
-The goal of DC4420 meetings is to share some time and knowledge with people who share our interests.
+As researchers we all struggle and push the limits of available data
+visualization libraries. Availability of real time network flows have
+exceeded the capacity of current visualization libraries and the
+ability of the human to grasp densely visualized information.
+How much data is too much? We will explore the current state of the
+art in visualization as we try to answer the question of how to
+visualize backbone level enterprise data.
 
-Send talk proposals to <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+<hr>
+
+# 2nd Talk
+
+## Webnuke the planet
+
+### Speaker
+
+Mike (Gtrf)
+
+### Synopsis
+Mike presents his "weird and wonderful" tool for modern web application
+pen testing, with a focus on Javascript internals including Angularjs hackery.
+
