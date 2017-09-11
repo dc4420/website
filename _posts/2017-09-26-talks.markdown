@@ -1,0 +1,24 @@
+---
+layout: post
+title:
+pubdate: 2017-09-11 17:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## Giving Away the Magic Sauce
+
+### Speaker
+
+Juan Andres Guerrero-Saade, Principal Security Researcher, GReAT, Kaspersky Lab ([@juanandres_gs](https://twitter.com/juanandres_gs))
+
+### Synopsis
+
+Threat intelligence is all the rage these days, everyone is selling a feed, everyone has a report, everyone has the skinny, everyone wants to be cool. But the practice of unearthing and analyzing a targeted attack is more art than science, similar to detective work, and little material is out there to guide interested defenders on how to do this properly. The few teams doing good work in this space guard their methodologies and experiences jealously from passersby and dilettantes. The truth is that there is enough work for all of us without having to hide these methods from defenders and interested practitioners that could benefit from a better understanding of the threat intelligence production cycle. This talk will deep dive into that production cycle, demarcating the difference between good IR and IT work and the analysis process that yields an understanding of a targeted attack from initial finding, to reverse engineering, pivoting and contextual analysis, and more importantly the intelligence analysis that follows.
+
+<hr>
+
+# 2nd Talk TBC
+
+
