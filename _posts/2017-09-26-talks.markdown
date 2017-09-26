@@ -21,11 +21,13 @@ Threat intelligence is all the rage these days, everyone is selling a feed, ever
 
 # 2nd Talk
 
-## open slot for anyone on the night
+## Encryption vs. Inspection
+
+### Speaker
+
+Nick Sullivan, Head of Cryptography, Cloudflare ([@grittygrease](https://twitter.com/grittygrease))
 
 ### Synopsis
 
-If you have something relevant or interesting to the audience (not a product pitch) for 10 to 30 minutes please contact the DC4420 crew (Adam, Mark or Tony) on the night.
-
-
+Nick's stepped in at the last minute to offer a talk on how the competing goals of network monitoring and end-to-end encryption are colliding.
 
