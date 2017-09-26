@@ -21,7 +21,7 @@ Threat intelligence is all the rage these days, everyone is selling a feed, ever
 
 # 2nd Talk
 
-## Encryption vs. Inspection
+## Anti-reverse-engineering
 
 ### Speaker
 
@@ -29,5 +29,5 @@ Nick Sullivan, Head of Cryptography, Cloudflare ([@grittygrease](https://twitter
 
 ### Synopsis
 
-Nick's stepped in at the last minute to offer a talk on how the competing goals of network monitoring and end-to-end encryption are colliding.
+Nick's stepped in at the last minute to offer a talk on his past.
 
