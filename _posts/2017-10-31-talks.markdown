@@ -1,0 +1,25 @@
+---
+layout: post
+title:
+pubdate: 2017-10-05 17:00:00
+categories: talk
+---
+
+# 1st Talk
+
+## NP-Hard Proof of Work for Blockchain Construction
+
+### Speaker
+
+Faye
+
+### Synopsis
+
+_awaiting final title and synopsis_
+
+<hr>
+
+# 2nd Talk
+
+## _details TBC_
+
