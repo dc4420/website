@@ -18,6 +18,7 @@ Faye
 Bitcoin proof of work uses a Hashcash proof of work. Revolutionary and brilliant, but there is some potential to make some "good" utilisation of the computing power (and ultimately electrical power) expended to form the proof of work. Also the Hashcash proof of work is cornered by a bunch of airplane hangers in China using huge ASIC based mining rigs. The game is over for hobby miners.
 
 This talk is about:
+
 * creating a proof of work that still uses the existing Hashcash Proof of Work for the first round, and then taking the lowest hash values belonging to the n miners who mined those values and then creating an instance of the Travelling Salesman Problem in order to solve a problem that is: useful to solve, ASIC resistant, and actually requires a competition in Algorithm design to solve.
 * Furthermore, Hashcash Proof of Work is based on a heuristic thought that finding low hash values is "Hard", where as the Travelling Salesman Problem is known to be NP-Complete if considering the decision problem and NP-Hard if considering the Optimisation problem - which I propose we utilise.
 
