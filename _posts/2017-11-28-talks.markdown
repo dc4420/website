@@ -1,0 +1,27 @@
+---
+layout: post
+title:
+pubdate: 2017-10-24 18:00:00
+categories: talk
+---
+
+# 1st Talk
+
+
+### Speakers
+
+Jack Gavigan & str4d, Zcash ([@JackGavigan](https://twitter.com/JackGavigan) & [@str4d](https://twitter.com/str4d))
+
+### Synopsis
+
+Zero-knowledge proofs (ZKPs) are currently a hot topic in cryptography. The Zcash cryptocurrency is the first large-scale deployment of ZKPs (specifically, zk-SNARKs), which are used to provide strong privacy by preserving the confidentiality of transaction details. Two members of the Zcash team will give an overview of Zcash, and delve into the details of how zk-SNARKs work.
+
+<hr>
+
+# 2nd Talk
+
+## open slot for anyone on the night
+
+### Synopsis
+
+If you have something relevant or interesting to the audience (not a product pitch) for 10 to 30 minutes please contact the DC4420 crew (Adam, Mark or Tony) on the night.
