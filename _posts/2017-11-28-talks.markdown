@@ -21,8 +21,20 @@ Zero-knowledge proofs (ZKPs) are currently a hot topic in cryptography. The Zcas
 
 # 2nd Talk
 
-## open slot for anyone on the night
+##  Hackers gonna hack - follow-up
+
+### Speaker
+
+Helen Thackray, PhD Researcher ([@hel_ty](https://twitter.com/hel_ty))
 
 ### Synopsis
+
+In February, Helen spoke about the significance of the group processes
+in trust, decision making and risk with in online hacking communities,
+and the parallels with the info-sec community. She's now providing an
+update on results from this project.
+
+
+# Other short talks?
 
 If you have something relevant or interesting to the audience (not a product pitch) for 10 to 30 minutes please contact the DC4420 crew (Adam, Mark or Tony) on the night.
