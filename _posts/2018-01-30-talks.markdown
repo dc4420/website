@@ -1,0 +1,28 @@
+---
+layout: post
+title:
+pubdate: 2017-12-13 12:00:00
+categories: talk
+---
+
+# Talk
+
+## Cracking HiTag2 - From Cars and Buildings to Crappy Crypto
+
+### Speaker
+
+Kev Sheldrake ([@kevsheldrake](https://twitter.com/kevsheldrake))
+
+### Synopsis
+
+HiTag2 is an RFID technology at 125KHz that features authentication and encryption, but it is flawed. Massively. Academics (Garcia et al) have trashed it properly - first with the paper 'Gone In 360 Seconds' and more recently with 'Lock It And Still Lose It'. This talk will describe the HiTag2 crypto system from PRNG initialisation to the design flaws that caused it to fail.
+I will talk about all four attacks, including the three presented at 44con and the more recent one from the 2016 paper, Lock It And Still Lose It. If you're interested in crypto but find hacking it inaccessible then hopefully this talk will give you some pointers. I'll try to make it fun.
+
+### Bio
+Kev Sheldrake is a hacker with a background in software dev, systems admin, infosec policy, reverse engineering, crypto, etc. His talks range from trashing NLP in social engineering to writing debuggers with ptrace(). He is currently a researcher in infosec focusing on crypto.
+
+<hr>
+
+# Other announcements or short talks?
+
+If you have something relevant or interesting to the audience (not a product pitch) for ~10 minutes please contact the DC4420 crew (Adam, Mark or Tony) on the night.
