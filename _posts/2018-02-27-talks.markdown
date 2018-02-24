@@ -1,0 +1,29 @@
+---
+layout: post
+title:
+pubdate: 2018-02-24 16:50:00
+categories: talk
+---
+# Talk
+
+## Epic Failures of Security - From ICS to the Web
+
+Mike ([@mikeghacks](https://twitter.com/mikeghacks)) and Matt ([@sekuryti](https://twitter.com/sekuryti))
+
+### Synopsis
+
+Mike and Matt from Insinia spent 6 months hacking industrial control systems.
+On the night they will cover their experiences, pwnage and research from ICS to red
+team engagements. Expect plenty of epic fails, research tips and general best practices.
+
+<hr>
+
+# Other announcements or short talks?
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
