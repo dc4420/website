@@ -8,6 +8,8 @@ categories: talk
 
 ## Epic Failures of Security - From ICS to the Web
 
+### Speakers
+
 Mike ([@mikeghacks](https://twitter.com/mikeghacks)) and Matt ([@sekuryti](https://twitter.com/sekuryti))
 
 ### Synopsis
