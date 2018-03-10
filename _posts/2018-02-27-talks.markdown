@@ -20,6 +20,31 @@ team engagements. Expect plenty of epic fails, research tips and general best pr
 
 <hr>
 
+## Why is Paul always talking about trains?
+
+### Speakers
+
+Paul ([@paul2dart](https://twitter.com/paul2dart))
+
+### Synopsis
+
+Paul gave us a high-level introduction to the signalling systems
+and operations on UK railways and how automation and security affects them.
+
+<hr>
+
+## DeLux Edition: Getting root privileges on the eLux Thin Client OS
+
+### Speakers
+
+Craig ([@craigsblackie](https://twitter.com/craigsblackie))
+
+### Synopsis
+
+Craig took us on a whirlwind tour of the eLux thin client, from
+initially poking around in the browser, through the printer and
+screensaver dialogs to root and persistence.
+
 # Other announcements or short talks?
 
 We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
