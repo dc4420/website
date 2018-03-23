@@ -10,11 +10,19 @@ categories: talk
 
 ### Speaker
 
-[@xoreipeip](https://twitter.com/xoreipeip))
+Balazs Bucsay ([@xoreipeip](https://twitter.com/xoreipeip))
 
 ### Synopsis
 
--
+XFLTReaT is a Python based tunnelling framework that unifies all tunnelling tools
+that are out there. It already supports many protocols and more are coming. It is
+really convenient to use, open-sourced and a should be community developed. The
+newest two additions are the split tunnelling feature that gives you the opportunity
+to only access a set of IPs over the tunnel and the RDP module which allows you to
+test over RDP jump boxes. By combining these two, it is now possible to test
+segregated network from your favourite Kali, Minix or GNU Hurd box.
+
+A few short demos will be included in the presentation to show the power behind the framework.
 
 <hr>
 
