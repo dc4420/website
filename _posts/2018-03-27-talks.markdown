@@ -32,7 +32,7 @@ A few short demos will be included in the presentation to show the power behind 
 
 ### Speaker
 
-Angus Maidment (http://www.angusmaidment.com)
+Angus Maidment ([http://www.angusmaidment.com](http://www.angusmaidment.com))
 
 ### Synopsis
 
