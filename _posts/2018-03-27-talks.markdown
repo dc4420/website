@@ -26,7 +26,19 @@ A few short demos will be included in the presentation to show the power behind 
 
 <hr>
 
-## Open slot for announcements or up to 30min of short talks
+# Second Talk
+
+## Blockchain BS:  How to lose ALL your money using cryptocurrencies!
+
+### Speaker
+
+Angus Maidment (http://www.angusmaidment.com)
+
+### Synopsis
+
+We've all heard about the overnight millionaires and newly financially independent 24 year olds after the Bitcoin bonanza, so how can you do the same??  Angus Maidment, co-founder of Blockchain Beginners, will tell us that there's actually a whole bunch of ways to end up looking like a sucker in the world of crypto!  We will talk about how insanely dangerous investing in crypto actually is, but you wont be seeing any charts or prices here.  Instead, we will take a look round some of the more ridiculous things happening in the blockchain world, laugh at them a bit, and maybe hear a little about what Blockchain Beginners is doing in an attempt to mitigate all this BS!
+
+<hr>
 
 We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
 want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
