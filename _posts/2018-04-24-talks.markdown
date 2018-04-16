@@ -1,0 +1,41 @@
+---
+layout: post
+title:
+pubdate: 2018-04-10 1:00:00
+categories: talk
+---
+# Talk
+
+## Web browsing from a car, what is the worse that can happen?
+
+### Speaker
+
+Ian Tabor ([@mintynet](https://twitter.com/mintynet)), [www.mintynet.com](https://www.mintynet.com)
+
+### Synopsis
+
+Car hacking and the discovery of a vulnerability in a In Vehicle Infotainment Unit, showing the process of disclosure to the manufacturer and their response. Also the further work I am doing to see if the vulnerability could be exploited more than just the issues originally found, some tips on how others could 'hack' there IVI. In the process of building a car on the bench for other car hacking. There may be a demo of the hack using a similar IVI running outside of the vehicle.
+
+<hr>
+
+# Second Talk
+
+## The Darkside of Red-teaming?
+
+### Speaker
+
+Andrew Davies and Jon Medvenics
+
+### Synopsis
+
+*TBC*
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
