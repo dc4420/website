@@ -1,0 +1,34 @@
+---
+layout: post
+title:
+pubdate: 2018-04-26 1:00:00
+categories: talk
+---
+# Talk
+
+## *TBC*
+
+
+<hr>
+
+# Second Talk
+
+## Pimp My Pi
+
+### Speaker
+
+Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
+
+### Synopsis
+
+How far can you push today's Raspberry Pis with the average shack set of tools? This talk will venture into the amount of extra performance you can squeeze out a Raspberry Pi 3B and a Raspberry Pi 3B+ by approaching the limits of overclocking as close as possible. No Pi's have been harmed during the process.
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
