@@ -1,27 +1,41 @@
 ---
 layout: post
 title:
-pubdate: 2018-04-26 1:00:00
+pubdate: 2018-05-25 2:00:00
 categories: talk
 ---
-# Talk
 
-## *TBC*
+# First Talk
 
+## Intended Consequences
+
+Usability with, and in face of, auditors.
+
+### Speaker
+
+Mika Boström
+
+### Synopsis
+
+The unholy trinity of security, usability and auditor
+agreeableness comes off as an extreme tradeoff, with one out of three
+considered an acceptable compromise. This talk covers an approach, with
+real examples, that has made it possible to cover all three at the same
+time.
 
 <hr>
 
 # Second Talk
 
-## Pimp My Pi
+## *TBC*
 
 ### Speaker
 
-Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
+Bigezy ([@bigezy_](https://twitter.com/@bigezy_))
 
 ### Synopsis
 
-How far can you push today's Raspberry Pis with the average shack set of tools? This talk will venture into the amount of extra performance you can squeeze out a Raspberry Pi 3B and a Raspberry Pi 3B+ by approaching the limits of overclocking as close as possible. No Pi's have been harmed during the process.
+?
 
 <hr>
 
