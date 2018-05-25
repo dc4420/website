@@ -1,0 +1,50 @@
+---
+layout: post
+title:
+pubdate: 2018-05-30 1:00:00
+categories: talk
+---
+
+# First Talk
+
+## Lessons From The Legion
+
+### Speaker
+
+Nick Drage ([@SonOfSunTzu](https://twitter.com/SonOfSunTzu))
+
+### Synopsis
+
+At an operational level Cyber Security people tend to be self-taught, learning or relearning or revising tools and techniques on their own against static targets that don't fight back, targets that they've probably set up anyway.
+
+At a tactical level, in Incident Response ( and arguably in Penetration Testing and Red Teaming also ) Cyber Security practitioners use "playbooks", which are essentially pre-determined plans on how to deal with expected situations.  A lot of effort goes into writing playbooks, but no effort goes into testing them or updating them, and especially not in testing them against attackers' playbooks and seeing how the two sets of plans interact.
+
+So at the operational level Cyber Security workers train in a situation different to how their skills will be tested, and at a tactical level organisations have thick books of procedures, unproven and unpracticed, waiting for that inevitable breach to show up their faults - all the negative aspects of "playbook" with none of the positive.
+
+In this presentation I will show how we can learn from others who have succeeded in similar situations but in different contexts and conflicts; and I will show how we can take their ideas and cross-pollenate them into our own field and improve our own methods and practices.
+
+This is all very conceptual, and professionally useful, and will be achieved through a combination of rational argument, occasional ranting against established ways of working, rapidly evolving slidedecks that make PeckaKucha look like watching paint dry, and noisy video clips.
+
+<hr>
+
+# Second Talk
+
+## Pimp My Pi
+
+### Speaker
+
+Yvan Janssens ([@friedkiwi](https://twitter.com/friedkiwi))
+
+### Synopsis
+
+How far can you push today's Raspberry Pis with the average shack set of tools? This talk will venture into the amount of extra performance you can squeeze out a Raspberry Pi 3B and a Raspberry Pi 3B+ by approaching the limits of overclocking as close as possible. No Pi's have been harmed during the process.
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
