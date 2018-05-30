@@ -27,7 +27,7 @@ time.
 
 # Second Talk
 
-## *TBC*
+## A talk about certain stuffs...
 
 ### Speaker
 
@@ -35,7 +35,27 @@ Bigezy ([@bigezy_](https://twitter.com/@bigezy_))
 
 ### Synopsis
 
-?
+This talk will be about about the fusion of real data modeling and the
+development of tools to instrument impact for individual state machines
+that work in a system of devices. It will be a mix of the scientific
+discoveries that are being made by the analysis of real ICS data and
+the emergence of tools that can model impact of incidents in digitally
+controlled systems that provide for critical functions in industrial
+settings. Or something even more interesting if I am drunk when the
+talk starts. I will be at the Phoenix early for those interested in
+making the talk a bit more colorful by plying the speaker with drinks before the talk.
+
+### About Bigezy
+
+Bigezy is a critical infrastructure defender and has spoken at many
+conferences including Blackhat, Defcon, Troopers, Hackito, H2HC, and
+many others. He also hold a defcon black badge from Defcon 11 for
+wardriving. During Defcon 24 he released Pinworm a tool for man in
+the middle of social media metadata and also released a different
+toolset CyPSA for cyber physical impact analysis at BsidesLV.
+Between those two releases bigezy somehow found the time to captain
+the victorious Hacker Jeopardy team “We fucked it up!” 11 beers
+drank during the final round.
 
 <hr>
 
