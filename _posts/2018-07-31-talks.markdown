@@ -15,7 +15,7 @@ John & Ashley
 
 ### Synopsis
 
-This will be a brief history of Biohacking with emphasis to the utilisation of modern technologies and mostly RFID implants
+This will be a brief history of Biohacking with emphasis to the utilisation of modern technologies and mostly RFID implants.
 How the industry has involved from a (quick) biological perspective to a more technical prespective.
 
 <hr>
