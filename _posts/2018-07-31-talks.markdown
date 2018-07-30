@@ -1,0 +1,50 @@
+---
+layout: post
+title:
+pubdate: 2018-07-04 16:00:00
+categories: talk
+---
+
+# First Talk
+
+## Biohacking: The Past and the Future, From the Penicillin to RFID implants
+
+### Speakers
+
+John & Ashley
+
+### Synopsis
+
+This will be a brief history of Biohacking with emphasis to the utilisation of modern technologies and mostly RFID implants
+How the industry has involved from a (quick) biological perspective to a more technical prespective.
+
+<hr>
+
+# Second Talk
+
+## VPN's and You: Why the consumer VPN market is a bit broken
+
+### Speaker
+
+Jack Wilson
+
+### Synopsis
+
+Due to the increasing number of recommendations for consumers to use a VPN, more app developers are creating VPN apps
+and publishing them on the Apple App Store and Google Play Store. In this 'gold rush', apps are being developed quickly
+and, in turn, not being developed with security fully in mind.
+
+This talk discusses some of the issues with consumer VPN's, some public demonstrations of good and bad trust from VPN
+providers along with a spot of threat modelling. The second part of the talk discusses some of the results of my recently
+completed dissertation research where I investigated a selection of iOS VPN clients and tested them for common security
+misconfigurations that can lead to a reduction in privacy for users.
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
