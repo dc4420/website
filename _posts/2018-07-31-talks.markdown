@@ -7,7 +7,7 @@ categories: talk
 
 # First Talk
 
-## Biohacking: The Past and the Future, From the Penicillin to RFID implants
+## Biohacking: The Past and the Future, From Penicillin to RFID implants
 
 ### Speakers
 
@@ -15,8 +15,8 @@ John & Ashley
 
 ### Synopsis
 
-This will be a brief history of Biohacking with emphasis to the utilisation of modern technologies and mostly RFID implants.
-How the industry has involved from a (quick) biological perspective to a more technical prespective.
+This will be a brief history of Biohacking with emphasis on the utilisation of modern technologies and mostly RFID implants.
+How the industry has involved from a (quick) biological perspective to a more technical perspective.
 
 <hr>
 
