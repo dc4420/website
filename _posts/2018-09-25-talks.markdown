@@ -9,7 +9,7 @@ categories: talk
 
 ## Wagging The Tail - Covert Passive Surveillance and how to make their life difficult
 
-### Speakers
+### Speaker
 
 [Si](https://www.twitter.com/SecuritySense)
 
@@ -27,7 +27,22 @@ This talk will focus on mobile and foot surveillance techniques used by surveill
 
 # Second Talk
 
-## No second talk yet
+## Measuring RPKI with the data plane
+
+### Speaker
+
+[Ben Cox](https://twitter.com/Benjojo12)
+
+### Synopsis
+
+BGP is a protocol all about trust, it is what helped it obtain huge adoption, and this trust model has later been regarded as a "victim as it's own success" as the internet moved out of the era of trusting all parties on the network.
+
+For a while some of the only things security people knew about BGP is that it is vulnerable to hijacking, and various incidents have been spawned from that (Think youtube in Pakistan, and the more recent Amazon Route 53 crypto theft hijacking)
+
+Slowly, The networking world has been working on a solution that involves signing IP ranges and their owners. The uptick of signed IP ranges is reaching as high as 16% in some regions, but how is validation doing?
+
+Some others have tried to quantify this metric using control plane data (think BGP feeds) to test if networks are validating their incoming BGP feeds, with questionable success. In this talk I present a new approach of testing the whole Internets implementation of RPKI and show the truth of the progress of BGP security efforts.
+
 
 <hr>
 
