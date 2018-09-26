@@ -6,7 +6,7 @@ permalink: /about/
 
 ##Location
 
-[The Phoenix, Cavendish Square](https://goo.gl/maps/audoHa)
+[The Phoenix, Cavendish Square](https://goo.gl/maps/QkY1jRkpSFF2)
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.842198018175!2d-0.14359999999999998!3d51.516110999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ad52179b1a3%3A0x1d78c7ec6f1dfb95!2sThe+Phoenix!5e0!3m2!1sen!2suk!4v1432717339445" width="400" height="300" frameborder="0" style="border:0"></iframe>
 
