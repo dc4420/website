@@ -27,7 +27,7 @@ Please be respectful to our speakers, other attendees, and the venue staff.
 
 ## Talk nights
 
-Format is usually two talks: a primary 1 hour (ish) and,
+Format is usually two talks: a primary 45 minutes (ish), and
 a secondary 30 minutes (ish).
 Talks start at 19:30, but we have the room from about
 18:30 to 23:00.
