@@ -7,7 +7,7 @@ categories: talk
 
 # First Talk
 
-## Exploiting corporate networks via Zen Mobile
+## Exploiting corporate networks via Xen Mobile
 
 ### Speaker
 
@@ -15,7 +15,7 @@ Glyn Wintle ([@glynwintle](https://twitter.com/glynwintle))
 
 ### Synopsis
 
-Zen Mobile is a enterprise mobile device management system provided by Citrix. It has a few problems. Glyn will talk you through exploiting it, what Citrix did to fix it and what Citrix does not consider to be a problem. (Hint Glyn does not agree, come along and decide for yourselves).
+Xen Mobile is a enterprise mobile device management system provided by Citrix. It has a few problems. Glyn will talk you through exploiting it, what Citrix did to fix it and what Citrix does not consider to be a problem. (Hint Glyn does not agree, come along and decide for yourselves).
 
 Glyn will also be talking though techniques for exploiting systems and corporate networks with out leaving a forensic finger print.
 
