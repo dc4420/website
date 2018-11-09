@@ -31,7 +31,26 @@ Kev Sheldrake is a hacker with a background in software dev, systems admin, info
 
 <hr>
 
-# Second talk: *TBC*
+# Second Talk
+
+## Understanding and Assessing LoRaWAN networks
+
+### Synopsis
+
+LoRaWAN is a Low-Power Wide Area Network (LPWAN) technology which is
+gaining a lot of momentum in the IoT space. It enables the transmission of
+small amounts of data over a range of tens of kilometres with built-in
+end-to-end encryption, and a typical device can run for up to a decade on
+a single AA battery. LoRaWAN is being implemented in embedded devices for
+monitoring of remote sites, as well as in large "Smart Building"
+environmental and occupational monitoring systems.
+
+In this talk, I will outline the LoRaWAN protocol and its underlying
+technologies, highlighting weaknesses and common implementation pitfalls
+in the current version of the protocol, and areas to investigate when
+conducting assessments of LoRaWAN-enabled devices. I will demo a tool I
+have been developing for analysing LoRaWAN packets and identifying
+security vulnerabilities.
 
 <hr>
 
