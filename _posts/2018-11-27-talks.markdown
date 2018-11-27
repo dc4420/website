@@ -35,6 +35,10 @@ Kev Sheldrake is a hacker with a background in software dev, systems admin, info
 
 ## Understanding and Assessing LoRaWAN networks
 
+### Speaker
+
+Stephen Begley
+
 ### Synopsis
 
 LoRaWAN is a Low-Power Wide Area Network (LPWAN) technology which is
