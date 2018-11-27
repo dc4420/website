@@ -1,0 +1,30 @@
+---
+layout: post
+title: 
+pubdate: 2018-11-27 23:37:01
+categories: talk
+---
+
+# Xmas Drinks! from 6pm
+
+**Ground floor bar** at The Phoenix, Cavendish Square W1.
+
+Pre-Christmas drinks, chat, planning for next year ...
+
+<hr>
+
+# Coming talks for 2019 ...
+
+## Jan 2019 - Hackers gonna hack: Research Conclusions
+
+### Speaker
+
+Dr Helen Thackray ([@hel_ty](https://twitter.com/hel_ty))
+
+### Synopsis
+
+Over the course of 3 years I have studied hacking communities
+for my PhD research. Investigating the social psychology present online, such as how being part of a group effects individuals, and the concept of the "hacker" social identity,
+I will try to explain my finding in answer to the question -
+what makes someone a hacker? From 4chan to DefCon, surveys and
+interviews, i have concluded my research, and I'd like to share what I've learnt with the community that has helped me so much.
