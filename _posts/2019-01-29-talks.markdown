@@ -15,7 +15,7 @@ Howard Smith (Chief Hacking Officer, Oracle Corporation)
 
 ### Synopsis
 
-Through a glass darkly. A brief look of the work of Oracle's Ethical 
+Through a glass darkly. A brief look of the work of Oracle's Ethical
 Hacking Team and a few surprising results.
 
 <hr>
@@ -30,7 +30,8 @@ You?
 
 ### Synopsis
 
-We're still after a second talk. The second talk is usually shorter and on a tangentially-related or humorous topic.
+One of our speakers has had to push their talk back a month, so
+we're still after a second talk. The second talk is usually shorter and on a tangentially-related or humorous topic.
 
 We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
 want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
