@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-pubdate: 2019-02-08 19:00:00
+pubdate: 2019-02-16 17:00:00
 categories: talk
 ---
 
@@ -19,7 +19,19 @@ Over the course of 3 years I have studied hacking communities for my PhD researc
 
 <hr>
 
-# Second Talk *TBC*
+# Second Talk
+
+## Anti-picking Features of High Security Locks
+
+### Speaker
+
+Zeefeene
+
+### Synopsis
+
+I've spent the last few years messing around with the UK branch of TOOOL, trying to design a lock which is highly resistant to picking. Along my journey, I've learnt many things about how lock manufacturers have tried to thwart lockpickers, both good and fruitless, and I hope to provide some insight into an area of security which is rarely covered.
+
+In this talk I'll cover the basic principles of picking any lock, and the various and varied ways high security locks have attempted to prevent them being abused.
 
 <hr>
 
