@@ -1,25 +1,11 @@
 ---
 layout: post
 title:
-pubdate: 2019-02-16 17:00:00
+pubdate: 2019-02-23 11:00:00
 categories: talk
 ---
 
 # First Talk
-
-## Hackers gonna hack: Research Conclusions
-
-### Speaker
-
-Helen Thackray, PhD Researcher ([@hel_ty](https://twitter.com/hel_ty))
-
-### Synopsis
-
-Over the course of 3 years I have studied hacking communities for my PhD research. Investigating the social psychology present online, such as how being part of a group effects individuals, and the concept of the "hacker" social identity, I will try to explain my finding in answer to the question - what makes someone a hacker? From 4chan to DefCon, surveys and interviews, I have concluded my research, and I'd like to share what I've learnt with the community that has helped me so much.
-
-<hr>
-
-# Second Talk
 
 ## Anti-picking Features of High Security Locks
 
@@ -32,6 +18,24 @@ Zeefeene
 I've spent the last few years messing around with the UK branch of TOOOL, trying to design a lock which is highly resistant to picking. Along my journey, I've learnt many things about how lock manufacturers have tried to thwart lockpickers, both good and fruitless, and I hope to provide some insight into an area of security which is rarely covered.
 
 In this talk I'll cover the basic principles of picking any lock, and the various and varied ways high security locks have attempted to prevent them being abused.
+
+<hr>
+
+# Second Talk
+
+## ???
+
+### Speaker
+
+You ???
+
+We are looking for a second talk, upto 30 minutes on a security, or related topic, or a serious / humourous subject that will appeal to a roomful of computer hackers, system admins, and social engineers. :-) Email the organisers [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
+
+<hr>
+
+**Note** Dr Helen Thackray is unavailable to speak at February's event and her talk on "Hackers gonna hack: Research Conclusions" will be rescheduled at a future date.
 
 <hr>
 
