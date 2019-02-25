@@ -23,15 +23,23 @@ In this talk I'll cover the basic principles of picking any lock, and the variou
 
 # Second Talk
 
-## ???
+## Client-side Still Hot
 
 ### Speaker
 
-You ???
+Alex K
 
-We are looking for a second talk, upto 30 minutes on a security, or related topic, or a serious / humourous subject that will appeal to a roomful of computer hackers, system admins, and social engineers. :-) Email the organisers [{{ site.email }}](mailto:{{ site.email }}) with a title,
-synopsis and rough length, and don't worry if you haven't spoken before.
+### Synopsis
 
+When it comes to remotely breaching a corporate network, client-side attacks are generally thought of as less sexy and direct than phishing or attacking external infrastructure.
+
+In this talk we will cover three old-school browser tricks that can be chained to obtain a detailed map of an internal network:
+
+* Get the internal IP address space
+* Port scanning from a browser
+* Exfiltrating HTTP responses across origin
+
+By chaining these together, attackers can obtain enough information to plan client-side attacks against internal infrastructure, with the objective of breaching the perimeter and getting a shell.
 
 <hr>
 
