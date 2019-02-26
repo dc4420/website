@@ -1,0 +1,44 @@
+---
+layout: post
+title:
+pubdate: 2019-02-27 06:00:00
+categories: talk
+---
+
+# First Talk
+
+## NCC Group Research - we're not *just* pentesters ([@NCCGroupInfosec](https://twitter.com/NCCGroupInfosec))
+
+### Speaker
+
+Matt Lewis, Research Director at NCC Group
+
+### Synopsis
+
+Research in the context of cyber is often synonymous with finding vulnerabilities (e.g. 0-days) and demonstrating exploitation. While this is an important and fundamental part of cyber security research, at NCC Group what we mean by research is much broader. For us, research includes offensive and defensive techniques, capability and methodology development, horizon and future scanning, outreach and collaboration.
+
+In this talk I'll provide an overview of some of the things that we're up to within research at NCC Group across the areas defined above - sort of a show-and-tell, but also in the interest of stimulating thought and discussion around other areas of research that we perhaps could and should be doing within the industry, and with a view to identifying potential research collaboration across the DC community.
+
+<hr>
+
+# Second Talk
+
+## ???
+
+### Speaker
+
+You ???
+
+We are looking for a second talk, upto 30 minutes on a security, or related topic, or a serious / humourous subject that will appeal to a roomful of computer hackers, system admins, and social engineers. :-) Email the organisers [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
+
