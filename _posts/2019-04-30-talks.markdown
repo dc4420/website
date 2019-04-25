@@ -7,14 +7,17 @@ categories: talk
 
 # First Talk
 
-## ???
+## The perfect place for a backdoor (VM Hub 3.0)
 
 ### Speaker
 
-You ???
+Balazs Bucsay ([@xoreipeip](https://twitter.com/xoreipeip))
 
-We are looking for a main talk, upto an hour on a security, privacy, or related topic. Email the organisers [{{ site.email }}](mailto:{{ site.email }}) with a title,
-synopsis and rough length, and don't worry if you haven't spoken before.
+### Synopsis
+
+Testing embedded devices are mostly fun, in some cases it is like being in the 90’s looking for bugs that should be extinct by now. The Virgin Media’s Hub 3.0 was not different than that at all. After a few hours actively trying to find a bug in the system, a remote command execution bug was found, but that was just the beginning of this story.
+
+Over time, many other bugs were found and eventually a full chain of exploits was created which made it possible to control the device remotely with no user interaction and potentially take control over millions of these devices, installing backdoors in them in a way that would be extremely hard to find and investigate.
 
 
 <hr>
@@ -29,7 +32,9 @@ Paco Hope ([@pacohope](https://twitter.com/pacohope))
 
 ### Synopsis
 
-Paco's got a bee in his bonnet about ads and trackers. They're everywhere. They're in your mobile apps, every web page you go to, embedded devices you use like home automation devices, and even video game consoles. There are a few ways to combat them: ad blockers installed in your mobile phone or browser, online services that offer DNS blacklisting, and devices you install in your home to filter your requests. In this talk Paco will describe the tools he uses at home and on his devices to block tons of ads. In an average week, his internet connection sees about 97,000 DNS queries 14% of are blocked as ads or trackers. We'll have a look across all the different services you can use, how much they cost (most are free or donation-oriented), and which devices they can help. Not only do some web pages load faster when ads are blocked (though some load slower), the whole online experience is a calmer one. This isn't necessarily comprehensive, it's also opinionated. You probably know a few things he doesn't. But this is one man's collections of weapons in the fight.
+Paco's got a bee in his bonnet about ads and trackers. They're everywhere. They're in your mobile apps, every web page you go to, embedded devices you use like home automation devices, and even video game consoles. There are a few ways to combat them: ad blockers installed in your mobile phone or browser, online services that offer DNS blacklisting, and devices you install in your home to filter your requests.
+
+In this talk Paco will describe the tools he uses at home and on his devices to block tons of ads. In an average week, his internet connection sees about 97,000 DNS queries 14% of are blocked as ads or trackers. We'll have a look across all the different services you can use, how much they cost (most are free or donation-oriented), and which devices they can help. Not only do some web pages load faster when ads are blocked (though some load slower), the whole online experience is a calmer one. This isn't necessarily comprehensive, it's also opinionated. You probably know a few things he doesn't. But this is one man's collections of weapons in the fight.
 
 <hr>
 
