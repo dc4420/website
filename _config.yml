@@ -2,7 +2,7 @@
 title: DC4420
 email: talks@dc4420.org
 description: > # this means to ignore newlines until "baseurl:"
-  DC4420 - Defcon London
+  DC4420 - DEF CON London
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://dc4420.org" # the base hostname & protocol for your site
