@@ -1,20 +1,21 @@
 ---
 layout: post
 title:
-pubdate: 2019-05-02 20:00:00
+pubdate: 2019-05-25 12:00:00
 categories: talk
 ---
 
 # First Talk
 
-## ???
+## Data Science and SCADA
 
 ### Speaker
 
-You ???
+Bigezy ([@bigezy_](https://twitter.com/@bigezy_))
 
-We are looking for a main talk, upto an hour on a security, privacy, or related topic. Email the organisers [{{ site.email }}](mailto:{{ site.email }}) with a title,
-synopsis and rough length, and don't worry if you haven't spoken before.
+### Synopsis
+
+*details to come*
 
 <hr>
 
