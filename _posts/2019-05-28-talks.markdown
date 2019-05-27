@@ -1,13 +1,13 @@
 ---
 layout: post
 title:
-pubdate: 2019-05-25 12:00:00
+pubdate: 2019-05-27 12:00:00
 categories: talk
 ---
 
 # First Talk
 
-## Data Science and SCADA
+## DNP3 and Modbus and Data Science
 
 ### Speaker
 
@@ -15,7 +15,7 @@ Bigezy ([@bigezy_](https://twitter.com/@bigezy_))
 
 ### Synopsis
 
-*details to come*
+This talk will provide a research update on data science and its application inside SCADA networks that use DNP3 andModbus. Initial research results have results have created papers and pretty graphs. But, bigezy will be coming to DC4420 to provide an update on what it's like to observe PhD's in their natural habitat observing real data acting as a cross reference to the validity of synthetic data and finding that often this creates more questions than have been answered. If you are interested in finding out about these research trends, come join us for this talk. If the thought of categorizing SCADA data terrifies you, come anyway, the Phoenix has alcohol.
 
 <hr>
 
