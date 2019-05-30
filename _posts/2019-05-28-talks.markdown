@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-pubdate: 2019-05-27 12:00:00
+pubdate: 2019-05-30 19:00:00
 categories: talk
 ---
 
@@ -29,7 +29,13 @@ Vic Harkness ([@VicHarkness](https://twitter.com/VicHarkness)) ([website](https:
 
 ### Synopsis
 
-Privacy is not just an issue of interest to techies.  People within the art community are not happy with the idea of ubiquitous facial recognition systems, leading some people to develop techniques to defeat said systems.  This talk will provide a high-level overview of the general techniques used by facial recognition systems, and discuss some of the methodologies being used to defeat them (with special attention being paid to artistic solutions). 
+Privacy is not just an issue of interest to techies.  People within the art community are not happy with the idea of ubiquitous facial recognition systems, leading some people to develop techniques to defeat said systems.  This talk will provide a high-level overview of the general techniques used by facial recognition systems, and discuss some of the methodologies being used to defeat them (with special attention being paid to artistic solutions).
+
+My background notes can be found here:
+
+- General concepts: [https://vicharkness.co.uk/2019/01/20/the-art-of-defeating-facial-detection-systems-part-one/](https://vicharkness.co.uk/2019/01/20/the-art-of-defeating-facial-detection-systems-part-one/)
+- Part two: Adversarial examples: [https://vicharkness.co.uk/2019/01/27/the-art-of-defeating-facial-detection-systems-part-two-adversarial-examples/](https://vicharkness.co.uk/2019/01/27/the-art-of-defeating-facial-detection-systems-part-two-adversarial-examples/)
+- Part three: The art community's efforts: [https://vicharkness.co.uk/2019/02/01/the-art-of-defeating-facial-detection-systems-part-two-the-art-communitys-efforts/](https://vicharkness.co.uk/2019/02/01/the-art-of-defeating-facial-detection-systems-part-two-the-art-communitys-efforts/)
 
 <hr>
 
