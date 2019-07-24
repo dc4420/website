@@ -25,7 +25,7 @@ Vic originally embarked upon a lit review of ATM malware with the hopes of writi
 
 ### Speaker
 
-Ramona Tame
+Ramona Tăme
 
 ### Synopsis
 
