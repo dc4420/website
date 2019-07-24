@@ -29,7 +29,7 @@ Ramona Tame
 
 ### Synopsis
 
-Although emails are used often to take exchange confidential information, inside and outside an oranisation, often email security is limited to phishing and spam filters. This talk will survey available solutions to accomplish email signing and encryption.
+Although emails are used often to take exchange confidential information, inside and outside an organisation, often email security is limited to phishing and spam filters. This talk will survey available solutions to accomplish email signing and encryption.
 
 <hr>
 
