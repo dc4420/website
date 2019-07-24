@@ -21,14 +21,15 @@ Vic originally embarked upon a lit review of ATM malware with the hopes of writi
 
 # Second Talk
 
-## ???
+## An overview of solutions for email signing and encryption
 
 ### Speaker
 
-You ???
+Ramona T?me
 
-We are looking for a main talk, upto an hour on a security, privacy, or related topic. Email the organisers [{{ site.email }}](mailto:{{ site.email }}) with a title,
-synopsis and rough length, and don't worry if you haven't spoken before.
+### Synopsis
+
+Although emails are used often to take exchange confidential information, inside and outside an oranisation, often email security is limited to phishing and spam filters. This talk will survet available solutions to accomplish email signing and encryption.
 
 <hr>
 
