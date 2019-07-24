@@ -32,6 +32,8 @@ Faye
 Interactive Zero Knowledge Proofs are a place on a Venn diagram where colour blindness and cryptography intersect. In this talk I will explain what a ZKP cryptographic system is using an example of a colour blind gatekeeper and explain why this is related to something called the Quadratic Residuosity Problem. Additionally, a brief discussion into my current research into quadratic residues and perfect squares over the integers may follow, pending my presentation running in polynomial time.
 Discrete mathematics and cryptography can seem like a dark art, however at the end of this presentation I intend on providing 'some knowledge about zero knowledge'.
 
+[Slides]({{ '/slides/2019-06-25/QuadResPresv13.pdf'  | prepend: site.baseurl | prepend: site.url }})
+
 <hr>
 
 We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
