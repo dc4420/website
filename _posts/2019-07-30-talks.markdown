@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-pubdate: 2019-07-18 15:00:00
+pubdate: 2019-07-24 14:00:00
 categories: talk
 ---
 
@@ -25,11 +25,11 @@ Vic originally embarked upon a lit review of ATM malware with the hopes of writi
 
 ### Speaker
 
-Ramona T?me
+Ramona Tame
 
 ### Synopsis
 
-Although emails are used often to take exchange confidential information, inside and outside an oranisation, often email security is limited to phishing and spam filters. This talk will survet available solutions to accomplish email signing and encryption.
+Although emails are used often to take exchange confidential information, inside and outside an oranisation, often email security is limited to phishing and spam filters. This talk will survey available solutions to accomplish email signing and encryption.
 
 <hr>
 
