@@ -31,7 +31,7 @@ Rose Regina Lawrence
 
 Civil Society is a slightly nebulous term covering all those organisations and individuals who aren't businesses or government and are (hopefully) improving the world. Human rights organisations, journalists, and activists often have specific or heightened needs when it comes to security, both on and off-line, but they share many of the same issues and considerations as small and medium enterprises along with freelancers.
 
-This talk will provide an inroduction to some of the challenges specific to the civil society sector and some of the main sector specific resources. The goal of this talk is to provide a window into what infosec looks like for thesee groups in practice, and to provide helpful information to people from a more corporate background looking to support human rights organisations and charities.
+This talk will provide an introduction to some of the challenges specific to the civil society sector and some of the main sector specific resources. The goal of this talk is to provide a window into what infosec looks like for these groups in practice, and to provide helpful information to people from a more corporate background looking to support human rights organisations and charities.
 
 <hr>
 
