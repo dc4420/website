@@ -25,11 +25,13 @@ Vic originally embarked upon a lit review of ATM malware with the hopes of writi
 
 ### Speaker
 
-Ramona Tăme
+Ramona Tăme ([website](https://ramonatame.com/))
 
 ### Synopsis
 
 Although emails are used often to take exchange confidential information, inside and outside an organisation, often email security is limited to phishing and spam filters. This talk will survey available solutions to accomplish email signing and encryption.
+
+([presentation](https://ramonatame.com/an-overview-of-solutions-for-email-signing-and-encryption/))
 
 <hr>
 
