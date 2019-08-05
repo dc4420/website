@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-pubdate: 2019-08-02 22:00:00
+pubdate: 2019-08-05 22:00:00
 categories: talk
 ---
 
@@ -21,7 +21,7 @@ The IoT Team, UCL ([@TheIoTteam](https://twitter.com/TheIoTteam))
 
 # Second Talk
 
-## Infosec for civil Society: an introduction
+## Infosec for Civil Society: An Introduction
 
 ### Speaker
 
