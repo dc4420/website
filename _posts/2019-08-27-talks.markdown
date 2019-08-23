@@ -1,21 +1,25 @@
 ---
 layout: post
 title:
-pubdate: 2019-08-05 22:00:00
+pubdate: 2019-08-23 16:00:00
 categories: talk
 ---
 
 # First Talk
 
-## *TBC*
+## The Present & Future of Data Portability in IoT
 
 ### Speaker
 
-The IoT Team, UCL ([@TheIoTteam](https://twitter.com/TheIoTteam))
+Sarah Turner, UCL 
+
+July Galindo, UCL 
+
+of The IoT Team, UCL ([@TheIoTteam](https://twitter.com/TheIoTteam))
 
 ### Synopsis
 
-*Reporting on an Internet of Things research project*
+The Present & Future of Data Portability in the Internet of Things (IoT) is a Masters student research project exploring the right to data portability, as granted by the General Data Protection Regulations (GDPR) in relation to consumer IoT products. A new right under the GDPR, this project aims to determine the perception of the value of the right to data portability to users of IoT devices, companies that produce IoT devices (or the software/infrastructure that underpins such devices) and the intentions of policy-makers that have involvement with the right. The research project aims to determine the different motivations of these stakeholders, to provide suggestions as to how to best facilitate adoption of the right.
 
 <hr>
 
