@@ -22,15 +22,17 @@ Mike from dc972 has recently moved to London and has some stories to share on le
 
 # Second Talk
 
-## ?
+## Hunting ELFs: An Introduction to Android Malware Research
 
 ### Speaker
 
-You?
+Tom Atkinson
 
 ### Synopsis
 
-We're still after a second talk. The second talk is usually shorter and on a tangentially-related or humorous topic.
+This talk is an introduction to Android malware research and is largely focused on the work I published during my masters at Royal Holloway in which I found a previously undiscovered technique used by Android malware authors to hide their malware.
+
+Warning: contains references to AI/ML
 
 <hr>
 
