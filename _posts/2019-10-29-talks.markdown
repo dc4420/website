@@ -25,11 +25,13 @@ Bluetooth has been around now for 20 years; over that time the number of securit
 
 ### Speaker
 
-Corey Forbes
+Corey Forbes ([@yeroc_sebrof](https://twitter.com/yeroc_sebrof))
 
 ### Synopsis
 
-?
+This talk will discuss the findings from my Dissertation regarding the use of General Purpose Graphical Processing Units (GPGPU) for file carving and how it these methods can be used by other similar tooling such as: live memory forensics, IPS/IDS solutions, virus signature checks, etc.
+
+This research was focused to improve file carving as the open-source tools available are poorly optimised and are still regularly used in this sector. This talk will introduce the topic of file carving in a manner that caters to all level of skill. This will be followed by a discussion of optimisations that exist within other contexts but have not been applied to this use case. Finally the results of my dissertation will be presented.
 
 <hr>
 
