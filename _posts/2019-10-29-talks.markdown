@@ -1,0 +1,41 @@
+---
+layout: post
+title:
+pubdate: 2019-10-25 16:00:00
+categories: talk
+---
+
+# First Talk
+
+## Bluetooth Security: Where are we now and how did we get here?
+
+### Speaker
+
+Craig Heath
+
+### Synopsis
+
+Bluetooth has been around now for 20 years; over that time the number of security features in the specification has greatly increased, but many of those security features are optional and may or may not be implemented by device vendors.  This talk gives a brief overview of the evolution of Bluetooth security features, then going into detail on how the security characteristics of a Bluetooth connection are determined, depending on which features are implemented by the vendors of the devices involved.  We conclude by covering the questions that vendors need to answer, to determine whether the security of their device is adequate for its intended purpose.
+
+<hr>
+
+# Second Talk
+
+## "Alethia" GPU enabled file carving
+
+### Speaker
+
+Corey Forbes
+
+### Synopsis
+
+?
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
