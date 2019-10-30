@@ -1,7 +1,7 @@
 ---
 layout: post
 title:
-pubdate: 2019-10-30 02:00:00
+pubdate: 2019-10-30 02:17:00
 categories: talk
 ---
 
@@ -17,7 +17,7 @@ Craig Heath ([@heathcr](https://twitter.com/heathcr))
 
 Bluetooth has been around now for 20 years; over that time the number of security features in the specification has greatly increased, but many of those security features are optional and may or may not be implemented by device vendors.  This talk gives a brief overview of the evolution of Bluetooth security features, then going into detail on how the security characteristics of a Bluetooth connection are determined, depending on which features are implemented by the vendors of the devices involved.  We conclude by covering the questions that vendors need to answer, to determine whether the security of their device is adequate for its intended purpose.
 
-([slides](https://www.slideshare.net/heathcr/dc4420-bluetooth-security))
+[Slides](https://www.slideshare.net/heathcr/dc4420-bluetooth-security)
 
 <hr>
 
