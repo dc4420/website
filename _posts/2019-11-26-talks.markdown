@@ -1,0 +1,38 @@
+---
+layout: post
+title:
+pubdate: 2019-10-30 02:15:00
+categories: talk
+---
+
+# First Talk
+
+## *TBC*
+
+### Speaker
+
+### Synopsis
+
+<hr>
+
+# Second Talk
+
+## Look ma, no head!
+
+### Speaker
+
+Mika Boström
+
+### Synopsis
+
+The weird, funny and confusing lessons learned from building
+an always-on, headless vulnerability scanner. May answer questions you didn't want to ask. Likely to question answers you did.
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
