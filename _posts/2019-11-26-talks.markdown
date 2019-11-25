@@ -7,11 +7,15 @@ categories: talk
 
 # First Talk
 
-## *TBC*
+## What attackers think of antivirus
 
 ### Speaker
 
+Glyn Wintle ([@glynwintle](https://twitter.com/glynwintle))
+
 ### Synopsis
+
+More to come...
 
 <hr>
 
