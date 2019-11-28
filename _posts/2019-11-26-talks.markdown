@@ -15,8 +15,9 @@ Glyn Wintle ([@glynwintle](https://twitter.com/glynwintle))
 
 ### Synopsis
 
-More to come...
+Antivirus can be a mixed blessing, but for attackers it's mostly a good thing. Glyn will cover recent exploits that are only possible thanks to antivirus software, and some advice for both red and blue teams.
 
+Slides to come...
 <hr>
 
 # Second Talk
