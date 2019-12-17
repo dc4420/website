@@ -1,0 +1,23 @@
+---
+layout: post
+title:
+pubdate: 2019-12-17 18:15:00
+categories: talk
+---
+
+# Seasons Greetings!
+
+Best wishes to all our speakers and attendees for Christmas and the New Year ahead. Thanks you all so much for attending.
+
+Sorry the organisers are each fighting off various manifestations of winter lurgi, and haven't been able to arrange an Xmas drink/meal gathering this year.
+
+However we will be back on 28th January, and we will be updating the website with speaker details soon.
+
+<hr>
+
+We're always happy for more talks, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
