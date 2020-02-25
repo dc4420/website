@@ -25,12 +25,13 @@ A python3 tool, ‘hashcrack’ is presented which will attempt to run a sensibl
 
 # Second Talk
 
-### Speaker
+### Agent X
 
-You?
+Chat about opsec for journalists
 
 ## Synopsis
 
+An impromptu chat about how to the experience of managing security for people at risk from motivated attackers.
 
 <hr>
 

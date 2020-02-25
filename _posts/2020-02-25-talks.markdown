@@ -4,8 +4,21 @@ title:
 pubdate: 2020-02-10 11:45:00
 categories: talk
 ---
+# First talk
 
-# Talks wanted!
+## The problem with space junk
+
+### Speaker
+
+Vic Harkness ([@VicHarkness](https://twitter.com/VicHarkness)) ([website](https://vicharkness.co.uk/))
+
+### Synopsis
+
+Earlier this month, there was a near-miss of two satellites.  A lot of people didn't really pay attention, because why does it matter?  They were both inactive, we don't need them.  Vic, who is in no way qualified to do so, is here to tell you why you should care.
+
+This talk will cover the problem of space junk, and the risks associated with it.  It will also highlight some particularly interesting pieces of space junk, and what's being done to address the issue.  
+
+# Second talk
 
 ### Speaker
 
