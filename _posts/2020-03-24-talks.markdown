@@ -10,11 +10,11 @@ categories: talk
 
 Due to the coronavirus / Covid-19 situation there will be no DEF CON London meetings for a while.
 
-Last night's introduction by the UK Government on restrictions on movement obviously seals the deal here, but it already seemed to us wrong to draw extra people into central London during the pandemic.
+Last night's introduction by the UK Government on restrictions on movement obviously seals the deal here, but it already seemed for us wrong to draw extra people into central London during the pandemic.
 
 We intend to restart events later in the year, when the situation is improved.
 
-We will consider streaming talks, if anybody wants watch or give one let us know [{{ site.email }}](mailto:{{ site.email }}) 
+We will consider streaming talks, if anybody wants to watch or give one let us know [{{ site.email }}](mailto:{{ site.email }}) 
 
 All best wishes,
 Adam, Mark and Tony
