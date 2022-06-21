@@ -60,3 +60,7 @@ $on-laptop:        800px;
     font-size: 80%;
     font-style: normal;
 }
+
+li > ul, li > ol {
+    margin-bottom: 15px; /* To match p */
+}
