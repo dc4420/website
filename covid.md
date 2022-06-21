@@ -7,8 +7,7 @@ permalink: /covid/
 ## Background
 
 COVID-19 has dropped off the news, but it still poses a significant
-risk to long-term health, even among people who have
-[caught it before](https://twitter.com/GANyborg/status/1539218849719111681). 
+risk to long-term health, even among people who have caught it before.
 
 Prevalence in the UK is currently low, around 1 in 50 in London [on 17 June 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/17june2022).
 However, at this rate, if we took no precautions we'd expect *at least 1 person* at a
