@@ -77,7 +77,7 @@ and remote streaming of talks. Some UK groups (e.g. [Worcester](https://dc441905
 have also been successful doing this.
 
 A large part of DC4420 is the openness that comes from knowing your words aren't recorded.
-However, if you'd like to chat about organising an online event, please [get in touch](talks@dc4420.org).
+However, if you'd like to chat about organising an online event, please [get in touch](mailto:talks@dc4420.org).
 
 ## Questions
 
