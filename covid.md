@@ -50,12 +50,12 @@ If we believe someone is making people feel unsafe, we'll ask them to leave.
 
 ## Differences from conference policy
 
-For the [conference in Las Vegas](https://defcon.org/html/defcon-29/dc-29-faq.html),
-Defcon will remove in-person speaking tracks and mandate masks. This makes sense
-for an international event with thousands of attendees.
+For the [conference in Las Vegas](https://defcon.org/html/defcon-30/dc-30-faq.html),
+Defcon will mandate masks and has previously removed in-person speaking tracks.
+This makes sense for an international event with thousands of attendees.
 
 Unfortunately, Defcon doesn't provide COVID-19 guidance for DC groups, so we have
-chosen to follow [national guidance](https://www.gov.uk/guidance/reducing-the-spread-of-respiratory-infections-including-covid-19-in-the-workplace) instead for the following reasons:
+chosen to limit ourselves to [national guidance](https://www.gov.uk/guidance/reducing-the-spread-of-respiratory-infections-including-covid-19-in-the-workplace) for the following reasons:
 
 - We have a relatively small number of people in the venue at any time
 - There's no cost for an attendee to stay away if they test positive on the day
