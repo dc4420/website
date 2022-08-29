@@ -1,0 +1,36 @@
+---
+layout: post
+title:
+pubdate: 2022-08-24 12:35:00
+categories: talk
+---
+# First talk
+
+## London Underground open data: much more than you ever wanted to know
+
+### Speaker
+
+eta ([@eeeeeta9](https://twitter.com/eeeeeta9))
+
+### Synopsis
+
+Over the past year or so, I've become way too interested in tracking London Underground trains with greater precision than anyone else so far. Transport for London provides an API ("TrackerNet") to get departure boards for all the stations -- but (ab)using that information to track the journeys of each individual train has proven much harder than expected.
+
+I'll explain how I built a system to squeeze useful insights out of an API not really designed to provide them -- including a fair few workarounds for TfL's capricious signalling systems, way more graph theory than I have any right doing, and why I now really hate the District Line. You'll be able to see how applying a carefully tuned pile of random maths lets me go from a chaotic jumble of data to a near-perfect model of the Tube map!
+
+# Second talk
+
+## paper tickets > smartcards, probably
+
+### Speaker
+
+Harley ([@\_unlobito](https://twitter.com/_unlobito))
+
+## Synopsis
+
+Following its adoption by the Department for Transport, the ITSO specification has been the legally mandated technological stack for all new smartcard ticketing systems in the United Kingdom. Many transit operators have adopted ITSO as their primary ticketing scheme as a result of the government’s endorsement and the plethora of vendors supplying ITSO-certified equipment.
+
+Despite this, there has been little research done into the security mechanisms provided by the specification.
+
+After creating a python library to interpret data stored on compliant smartcards, I compromised a public ITSO validator app by abusing backwards compatibility measures to clone a genuine smartcard and alter its contents in an unauthorised manner.
+
