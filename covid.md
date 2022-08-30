@@ -9,8 +9,8 @@ permalink: /covid/
 COVID-19 has dropped off the news, but it still poses a significant
 risk to long-term health, even among people who have caught it before.
 
-Prevalence in the UK is currently low, around 1 in 16 in London [on 13 July 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/22july2022).
-However, at this rate, if we took no precautions we'd expect *at least 2 people* at a
+Prevalence in the UK is currently low, around 1 in 50 in London [on 16 August 2022](https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/coronaviruscovid19infectionsurveypilot/26august2022).
+However, at this rate, if we took no precautions we'd expect *at least 1 person* at a
 typical meeting to be testing positive.
 
 We therefore propose the following precautions. As usual for DC4420,
