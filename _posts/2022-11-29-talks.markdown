@@ -1,0 +1,37 @@
+---
+layout: post
+title:
+pubdate: 2022-11-22 16:10:00
+categories: talk
+---
+# First talk
+
+## ATM Assessments - Easy Money!
+
+### Speaker
+
+Craig Blackie ([@craigsblackie](https://twitter.com/craigsblackie))
+
+### Synopsis
+
+A talk on the methodology of ATM assessments, from physical security to jackpotting.
+
+# Second talk
+
+### Speaker
+
+?
+
+## Synopsis
+
+You?
+
+# Future talks
+
+We're looking for talks for next month, so if you've implemented Meltdown on your smartwatch,
+want to walk us through the highlights of a CTF, or have some insight into upcoming privacy
+regulations, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title,
+synopsis and rough length, and don't worry if you haven't spoken before.
+
