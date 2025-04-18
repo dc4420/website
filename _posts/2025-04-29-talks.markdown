@@ -34,3 +34,12 @@ We're looking for talks for this month and aiming to get this moving again overa
 
 Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
 
+# Location
+
+We are no longer at the Phoenix!
+
+**Greene Man**
+383 Euston Road
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
