@@ -36,10 +36,10 @@ Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, syno
 
 # Location
 
-We are no longer at the Phoenix!
+We are no longer at the Phoenix! The next meeting will be at:
 
-**Greene Man**
-383 Euston Road
+**The Greene Man**<br/>
+383 Euston Road<br/>
 London NW1 3AU
 
 Closest stations: Great Portland Street, Warren Street, Euston.
