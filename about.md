@@ -6,9 +6,10 @@ permalink: /about/
 
 ##Location
 
-[The Phoenix, Cavendish Square](https://goo.gl/maps/QkY1jRkpSFF2)
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2482.842198018175!2d-0.14359999999999998!3d51.516110999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ad52179b1a3%3A0x1d78c7ec6f1dfb95!2sThe+Phoenix!5e0!3m2!1sen!2suk!4v1432717339445" width="400" height="300" frameborder="0" style="border:0"></iframe>
+[The Greene Man, Great Portland St](https://maps.app.goo.gl/ps8FnqqTMWEWYemM9)
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2311.114661812128!2d-0.14578532337894828!3d51.523706871817005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48761ad7a49a07f5%3A0xe9a0fd9cc3fcd256!2sGreene%20Man!5e1!3m2!1sen!2suk!4v1744997646560!5m2!1sen!2suk" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ## Dates
 
@@ -46,7 +47,7 @@ As a speaker you can be an expert, a student, someone learning a new
 area, maybe a regular speaker on the conference circuit, but we also
 love to have new & occasional speakers.
 
-Send your talk / activity proposals to <talks@dc4420.org>
+Send your talk / activity proposals to <{{ site.email }}>
 
 You are very welcome to propose running activities other than talks, such
 as hands-on workshop or an infosec pub quiz, or something else relevant to our
