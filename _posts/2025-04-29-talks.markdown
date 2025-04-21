@@ -4,33 +4,33 @@ title:
 pubdate: 2025-04-18 16:10:00
 categories: talk
 ---
-# First talk
+# First talk (or second talk)
 
-## To Be Confirmed
+## 30+ Years of Infosec Failures
 
 ### Speaker
 
-We've got a speaker lined up, watch this space...
+Mika Boström
 
 ### Synopsis
 
-...
+Neglect and abuse, three decades and counting
 
-# Second talk
+# Second talk (or first talk)
 
-... or recommencement of networking
+OWASP Nettacker 
 
 ### Speaker
 
-?
+Sam Stepnayan @securestep9@infosec.exchange
 
 ## Synopsis
 
-You?
+A run through OWASP's automated recon and scanning framework
 
 # Future talks
 
-We're looking for talks for this month and aiming to get this moving again overall.  If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+We're hoping to get this moving again overall, every month - so we are looking for talks from any and all!  If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
 
 Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
 
