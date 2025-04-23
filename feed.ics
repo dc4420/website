@@ -14,7 +14,7 @@ DTSTAMP:{{ post.eventstart | date: "%Y%m%dT%H%M00" }}
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventstart | date: "%Y%m%dT%H%M00" }}
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventend | date: "%Y%m%dT%H%M00" }}
 UID:{{ post.eventstart | date: "%Y%m%d" }}@{{ site.title }}
-LOCATION:The Phoenix, Cavendish Square, London, W1G 0PP
+LOCATION:TThe Greene Man, 383 Euston Road, NW1 3AU
 URL:{{ post.url | prepend: site.baseurl | prepend: site.url }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
