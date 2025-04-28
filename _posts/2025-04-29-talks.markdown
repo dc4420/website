@@ -34,7 +34,7 @@ We're hoping to get this moving again overall, every month - so we are looking f
 
 Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
 
-# Location
+# New location
 
 We are no longer at the Phoenix! The next meeting will be at:
 
@@ -43,3 +43,5 @@ We are no longer at the Phoenix! The next meeting will be at:
 London NW1 3AU
 
 Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual.
