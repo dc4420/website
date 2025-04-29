@@ -13,13 +13,9 @@ SUMMARY:{{ site.title }}
 DTSTAMP:{{ post.eventstart | date: "%Y%m%dT%H%M00" }}
 DTSTART;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventstart | date: "%Y%m%dT%H%M00" }}
 DTEND;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventend | date: "%Y%m%dT%H%M00" }}
-{% assign day = post.eventstart | date: "%Y%m%d" %}
-UID:{{ day }}@{{ site.title }}
-{% if day > "20250101" %}
-LOCATION:The Greene Man, 383 Euston Road, NW1 3AU
-{% else %}
-LOCATION:The Phoenix, Cavendish Square, London, W1G 0PP
-{% endif %}
-URL:{{ post.url | prepend: site.baseurl | prepend: site.url }}
+{% assign day = post.eventstart | date: "%Y%m%d" %}UID:{{ day }}@{{ site.title }}
+{% if day > "20250101" %}LOCATION:The Greene Man, 383 Euston Road, NW1 3AU
+{% else %}LOCATION:The Phoenix, Cavendish Square, London, W1G 0PP
+{% endif %}URL:{{ post.url | prepend: site.baseurl | prepend: site.url }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
