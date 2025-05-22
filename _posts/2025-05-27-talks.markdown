@@ -27,15 +27,25 @@ Join us for a comprehensive look at the security flaws in trusted devices and le
 
 # Second talk
 
-## TBC
+## Slightly SOSL'ed: Locating And Testing SOSL Injection
 
 ### Speaker
 
-You?
+Nick Dunn
 
 ### Synopsis
 
-We don't yet have a talk for this month. We usually have a longer main talk (~45 mins+), and a second talk that is shorter and on a tangentially-related or humorous topic.
+The Salesforce platform allows a platform-specific vulnerability wi
+thin the
+Apex code, known as SOSL injection; while conceptually similar to SQL
+injection, the testing and exploitation entails different payloads and
+approaches.
+With concerns stemming from the minimal documentation available online, the
+exploration will attempt to shed light on the Apex code and custom API
+issue - its consequences and the working methods for detecting and confirming the existence of the vulnerabilities found within; probing in
+detail the different payloads useful for detection and exploitation, the
+consequences of a vulnerable site and finally, discussions on solutions to
+fix the occurrences of the issue.
 
 
 # Future talks
