@@ -4,7 +4,28 @@ title:
 pubdate: 2025-05-16 13:00:00
 categories: talk
 ---
-# Talk
+# First talk
+
+## Is Your Phone Spying on You? An In-Depth Analysis of Vulnerabilities in Cisco VoIP Phones
+
+### Speaker
+
+Balazs Bucsay
+
+### Synopsis
+
+Do you trust the embedded devices around you? Perhaps you shouldn't! Even industry giants make significant mistakes. In this presentation, we will analyse Cisco's VoIP phones, that can be found in offices, governmental buildings, and even the White House. These devices were found to have critical vulnerabilities, including easily exploitable flaws.
+
+Fun Fact: Did you know that President Biden and Trump used these phones?
+
+Among the vulnerabilities discovered was unauthenticated packet capture, allowing attackers to intercept and listen to any phone call made or received on the device. We'll demonstrate live how simple it is to intercept, reconstruct, and listen to a phone call.
+
+This presentation will dive into other issues uncovered during the blackbox testing of these devices. We'll also discuss what Cisco could have done differently to prevent these vulnerabilities and provide guidance on how to avoid similar pitfalls. Additionally, we are going explore the challenges and importance of thorough blackbox testing.
+
+Join us for a comprehensive look at the security flaws in trusted devices and learn how to protect against them.
+
+
+# Second talk
 
 ## TBC
 
