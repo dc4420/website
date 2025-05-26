@@ -10,7 +10,7 @@ categories: talk
 
 ### Speaker
 
-Balazs Bucsay
+[Balazs Bucsay](https://twitter.com/xoreipeip), [Mantra Information Security](https://mantrainfosec.com)
 
 ### Synopsis
 
@@ -31,12 +31,11 @@ Join us for a comprehensive look at the security flaws in trusted devices and le
 
 ### Speaker
 
-Nick Dunn
+[Nick Dunn](https://bsky.app/profile/n1ckdunn.bsky.social)
 
 ### Synopsis
 
-The Salesforce platform allows a platform-specific vulnerability wi
-thin the
+The Salesforce platform allows a platform-specific vulnerability within the
 Apex code, known as SOSL injection; while conceptually similar to SQL
 injection, the testing and exploitation entails different payloads and
 approaches.
