@@ -17,5 +17,6 @@ DTEND;TZID=Europe/London;VALUE=DATE-TIME:{{ post.eventend | date: "%Y%m%dT%H%M00
 {% if day > "20250101" %}LOCATION:The Greene Man, 383 Euston Road, NW1 3AU
 {% else %}LOCATION:The Phoenix, Cavendish Square, London, W1G 0PP
 {% endif %}URL:{{ post.url | prepend: site.baseurl | prepend: site.url }}
+DESCRIPTION:{{ post.url | prepend: site.baseurl | prepend: site.url }}
 END:VEVENT{% endfor %}
 END:VCALENDAR
