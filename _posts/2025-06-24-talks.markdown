@@ -1,0 +1,51 @@
+---
+layout: post
+title:
+pubdate: 2025-06-23 16:00:00
+categories: talk
+---
+# First talk
+
+## Forensic Flows, but make them better
+
+### Speaker
+
+[Jessica Wilson](https://x.com/sweetserenity28)
+
+### Synopsis
+
+Digital forensic procedures often come with significant overhead, from navigating the complexities of different operating systems to lengthy processes for image collection in the cloud. Additionally, the myriad of available tools can require expertise to select and utilize effectively. Why deal with these challenges when you can automate the basics?
+
+In this talk, we'll discuss the design of a framework aimed at automating triage-level forensics, making it accessible for all analysts to integrate into their investigations. We'll explore the open-source tools we've incorporated and the design paradigms ensuring scalability, concluding with valuable lessons learned.
+
+
+# Second talk
+
+## Using the OWASP Top 10 to Save the Astronauts from HAL
+
+### Speaker
+
+[Nick Dunn](https://bsky.app/profile/n1ckdunn.bsky.social)
+
+### Synopsis
+
+A discussion of the OWASP ML Top 10 and OWASP LLM Top 10, and how a failure to apply these principles in the movie 2001 A Space Odyssey, led to disastrous consequences for the crew.
+
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual.
