@@ -25,7 +25,7 @@ In this talk, we'll discuss the design of a framework aimed at automating triage
 
 ### Speaker
 
-[Nick Dunn](https://bsky.app/profile/n1ckdunn.bsky.social)
+[Nick Dunn](https://bsky.app/profile/n1ckdunn.bsky.social) [Slides](https://github.com/N1ckDunn/OWASPTop10AndHAL9000)
 
 ### Synopsis
 
