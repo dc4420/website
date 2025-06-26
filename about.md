@@ -13,7 +13,7 @@ permalink: /about/
 
 ## Dates
 
-Meetings are normally the last Tuesday of the month, except December.
+Meetings are normally the last Tuesday of the month, except December. Talks start at 7:30pm, but we have the room from about 6:30pm. We recommend turning up a little early to grab a drink and settle in.
 
 New attendees welcome, just come along!
 (There are no entry fees, and no tickets to book.)
@@ -26,18 +26,13 @@ If you'd like to be reminded of future events, add [the ical feed](/feed.ics) to
 
 Please be respectful to our speakers, other attendees, and the venue staff.
 
-## Talk nights
-
-Format is usually two talks: a primary 45 minutes (ish), and
-a secondary 30 minutes (ish).
-Talks start at 19:30, but we have the room from about
-18:30 to 23:00.
-
 ## Speakers Wanted
 
-Typically our programme has a technical talk (~1 hr) and lighter talk (~30 min).
-Once or twice a year we have a "Lightning Talk" format, with shorter
-talks up to ~15 minutes, with anyone who wants to speak on the night.
+Typically our programme has a primary talk of ~45 minutes, and lighter talk ~30 minutes.
+This isn't a hard structure, feel free to propose a lightning talk or Q&A
+discussion if that works for your topic.
+
+We're also happy to host activities other than talks, such as hands-on workshop or an infosec pub quiz, or something else relevant to our techie audience!
 
 The qualifications for speakers are simple, have a subject of interest
 to fellow technical & InfoSec people. The subject can be on technical 
@@ -49,11 +44,8 @@ love to have new & occasional speakers.
 
 Send your talk / activity proposals to <{{ site.email }}>
 
-You are very welcome to propose running activities other than talks, such
-as hands-on workshop or an infosec pub quiz, or something else relevant to our
-techie audience!
 
 We also welcome occasional company pitches, to sell or recruit, but to regulate
 the frequency of these we ask you to buy a round of drinks. Also please
-discuss with Major Malfunction or Tony beforehand!
+discuss with us beforehand!
 
