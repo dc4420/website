@@ -6,6 +6,15 @@ categories: talk
 ---
 # First talk
 
+## My hacking adventures as a software dev
+
+### Speaker
+
+[Daniel Raines](https://www.linkedin.com/in/danielraines/)
+
+
+# Second talk
+
 ## TBC
 
 ### Speaker
@@ -14,8 +23,7 @@ You?
 
 ### Synopsis
 
-We don't yet have a talk for this month. We usually have a longer main talk (~45 mins), and a second talk that is shorter and on a tangentially-related or humorous topic.
-
+We don't yet have a second talk for this month. We usually have a longer main talk (~45 mins), and a second talk that is shorter and on a tangentially-related or humorous topic.
 
 
 # Future talks
