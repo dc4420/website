@@ -12,6 +12,13 @@ categories: talk
 
 [Daniel Raines](https://www.linkedin.com/in/danielraines/)
 
+### Synopsis
+
+What happens when a software developer takes a closer look at the physical access control solutions he integrates with, finds issues and reports them?
+
+This talk covers the good, the bad and the ugly!
+
+I will discuss the vulnerabilities found and the responses received from multiple manufacturers.
 
 # Second talk
 
