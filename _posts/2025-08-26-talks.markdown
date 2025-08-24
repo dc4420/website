@@ -27,7 +27,7 @@ Skyper
 
 ### Synopsis
 
-[Phrack](https://x.com/phrack) is 40 this year. Skyper has offered to bring along some hardcopies for people to read, and will give a short talk.
+[Phrack](https://phrack.org/) is 40 this year. Skyper has offered to bring along some hardcopies for people to read, and will give a short talk.
 
 
 # Future talks
