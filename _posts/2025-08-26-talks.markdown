@@ -1,0 +1,51 @@
+---
+layout: post
+title:
+pubdate: 2025-08-11 21:34:00
+categories: talk
+---
+# First talk
+
+## What actually on the dark web? What's real and what's not? Because fake things can't hurt you and don't matter right?
+
+### Speaker
+
+Chris Monteiro ([web](https://pirate.london), [Bluesky](https://bsky.app/profile/dekushrub.bsky.social), [Twitter](https://twitter.com/Deku_shrub))
+
+### Synopsis
+
+Chris Monteiro spent 9 years of fighting a fake darknet market for murder, where the clients were deadly serious. What's+it like to be a one man international investigator, and how journalists and volunteers can help with legal issues against a ticking clock.
+
+
+# Second talk
+
+## Phrack's 40th Anniversary
+
+### Speaker
+
+Skyper
+
+### Synopsis
+
+[Phrack](https://x.com/phrack) is 40 this year. Skyper has offered to bring along some hardcopies for people to read, and will give a short talk.
+
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:30pm to settle in.
