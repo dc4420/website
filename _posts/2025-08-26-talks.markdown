@@ -6,7 +6,7 @@ categories: talk
 ---
 # First talk
 
-## What actually on the dark web? What's real and what's not? Because fake things can't hurt you and don't matter right?
+## What's actually on the dark web? What's real and what's not? Because fake things can't hurt you and don't matter right?
 
 ### Speaker
 
