@@ -18,6 +18,14 @@ Meetings are normally the last Tuesday of the month, except December. Talks star
 New attendees welcome, just come along!
 (There are no entry fees, and no tickets to book.)
 
+Future dates for 2025:
+
+ - 30 September
+ - 28 October
+ - 25 November
+
+December is a bit ad-hoc, but usually involves getting food somewhere.
+
 If you'd like to be reminded of future events, add [the ical feed](/feed.ics) to your calendar.
 
 ## Rules
