@@ -1,0 +1,52 @@
+---
+layout: post
+title:
+pubdate: 2025-09-01 12:05:00
+categories: talk
+---
+# First talk
+
+## No Pilot! The Emerging Security Risks of Copilot
+
+### Speaker
+
+[Thomas Atkinson](https://www.linkedin.com/in/thomas-atkinson-hacker)
+
+### Synopsis
+
+Synopsis: Microsoft Copilot is fast being rolled out across organisations everywhere but what does this mean for
+security? This is an in depth discussion on the emerging security risks associated with Copilot deployment in an
+organisation. We will explore the threats, the details and implications of their exploitation, what can be done to
+defend and secure Copilot; and we will reveal a new zero day exploit in Copilot (first disclosed at 44con).
+
+# Second talk
+
+## (Virtual) Wargaming of a Chemical Plant
+
+### Speaker
+
+Martyn Smith
+
+### Synopsis
+
+Plant have become increasingly worried about Operational Technology breaches, but with different skillsets, threat profiles, and operating assumptions to IT - including almost no testing on live systems - how do you effectively test current or proposed safeguards? We will explore challenges in modelling attacks on a chemical plant, how ML might feature, and how research might map to real life. Some Fortran included, thanks to improved engineering controls HAZMAT suit no longer necessary.
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:30pm to settle in.
