@@ -1,0 +1,47 @@
+---
+layout: post
+title:
+pubdate: 2025-10-17 10:52:00
+categories: talk
+---
+# First talk
+
+## Lodestar Forge
+
+### Speaker
+
+[Jamie Pegg](https://linkedin.com/in/jamiepegg)
+
+### Synopsis
+
+An introduction to Lodestar Forge — quickly deploy, configure, and manage red teaming infrastructure through a
+fast and modern platform. Deploying dedicated infrastructure for red teams shouldn't be a headache; that’s why I created
+Lodestar Forge. I will be talking through some of the key features of the platform and performing a live demo.
+
+# Second talk
+
+## ?
+
+### Speaker
+
+You?
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:30pm to settle in.
