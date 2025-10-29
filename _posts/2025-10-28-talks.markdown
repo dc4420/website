@@ -20,11 +20,17 @@ Lodestar Forge. I will be talking through some of the key features of the platfo
 
 # Second talk
 
-## ?
+## Approaches to physical security
 
 ### Speaker
 
-You?
+Craig Blackie ([@craigsblackie](https://twitter.com/craigsblackie))
+
+### Synopsis
+
+Craig stepped in at the last minute to talk about his approach to physical tests, and how this applied to
+a recent (successful) engagement.
+
 
 # Future talks
 
