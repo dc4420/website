@@ -20,8 +20,6 @@ New attendees welcome, just come along!
 
 Future dates for 2025:
 
- - 30 September
- - 28 October
  - 25 November
 
 December is a bit ad-hoc, but usually involves getting food somewhere.
