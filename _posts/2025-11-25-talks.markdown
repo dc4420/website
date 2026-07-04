@@ -1,0 +1,53 @@
+---
+layout: post
+title:
+pubdate: 2025-11-20 21:18:00
+categories: talk
+---
+# First talk
+
+## The Great Recruitment Firewall
+
+### Speaker
+
+[Mariya Hristova](https://www.linkedin.com/in/mariya-hristova-assoc-cipd-95b63264/)
+
+### Synopsis
+
+Spies are lurking everywhere, but especially in the hiring pipeline. Disguised as the perfect candidate to try and snag a position in a company where they can espionage away!
+
+Recruitment is the first point of contact for all candidates so in this
+talk I will go over how I recognise fraudulent candidates without
+descending into unfounded bias. I'll go over some recent examples and give
+some practical guidance of what you can do if you are not sure that the
+person opposite you is who they say they are.
+
+
+# Second talk
+
+## ?
+
+### Speaker
+
+You?
+
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:30pm to settle in.

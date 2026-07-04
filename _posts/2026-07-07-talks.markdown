@@ -1,0 +1,58 @@
+---
+layout: post
+title:
+pubdate: 2026-06-13 10:33:00
+categories: talk
+---
+# First talk
+
+## Unlocked and leaked
+
+### Speaker
+
+Darren ([r3n5k1](https://twitter.com/r3n5k1)) and Craig ([@craigsblackie](https://twitter.com/craigsblackie))
+
+### Synopsis
+
+The BIOS password is often seen as the first line of defence against all kinds of attacks and commonly involved in bypassing full disk encryption. In this talk we go over four different methods of circumventing this protection in modern Dell UEFI. Covering clearing the passwords, modifying the SPI flash DMA security settings to appear on when they are off, the "just ask nicely" approach, and a novel technique being discussed publicly for the first time which allows clear text extraction of passwords.
+
+You may see this referenced as CVE-2026-40639.
+
+# Second Talk
+
+## When Your Coding Agent Gets Pwned
+
+### Speaker
+
+Zen Van Riel, [Apollo Research](https://watcher.apolloresearch.ai/landing/) ([LinkedIn](https://uk.linkedin.com/in/zen-van-riel))
+
+### Synopsis
+
+AI coding agents now write and execute code autonomously - running shell
+commands, accessing external endpoints, editing config files. That's a
+massive attack surface. We'd walk through real failure modes (prompt
+injection, data exfiltration, instruction violations) and do a live demo of
+a prompt injection attack against Claude Code. And we'd show how why
+runtime guardrails are important in catching this.
+
+About us: We're a technical AI safety company: our research team works
+with frontier labs (OpenAI, Anthropic, Google DeepMind) on pre-deployment
+model evaluations and safety research. On the product side, we've built
+Watcher, a runtime monitoring layer that sits on top of coding agents like
+Claude Code and Cursor (think an MDM/EDR for AI agents); detecting prompt
+injection, data exfiltration, policy violations, and malicious behaviour in
+real time.
+
+We'd love to buy a round for everyone as well!
+
+# Time
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:45pm to settle in.
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.

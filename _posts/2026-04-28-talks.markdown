@@ -1,0 +1,61 @@
+---
+layout: post
+title:
+pubdate: 2026-03-16 11:37:00
+categories: talk
+---
+# First talk
+
+## Beating the Queue: A Hacker's View of HFT
+
+### Speaker
+
+Emil Lerner
+
+### Synopsis
+
+Most tech people assume high-frequency trading is just about spending
+millions on infrastructure and pushing everything onto FPGAs and custom
+hardware. The reality is more interesting: at the end of the day, a stock
+exchange is just software - and that means it can potentially be "hacked"
+to get your messages processed earlier than those of competitors. You end
+up treating the exchange like a target: reverse-engineering behaviour,
+probing infrastructure, and figuring out how messages actually flow through
+the system.
+
+In this talk, I'll walk through several practical cases of how exchange
+infrastructure can be exploited to gain latency advantages. I'll cover both
+traditional exchanges, which tend to run heavily customised in-house
+systems, and centralised crypto venues, which often rely on more
+conventional stacks - things like AWS, standard load balancers, and other
+infrastructure that can sometimes be reverse-engineered or partially
+replicated.
+
+# Second talk
+
+## ?
+
+### Speaker
+
+You?
+
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:45pm to settle in.

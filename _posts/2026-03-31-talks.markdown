@@ -1,0 +1,81 @@
+---
+layout: post
+title:
+pubdate: 2026-03-16 11:37:00
+categories: talk
+---
+# First talk
+
+## ⌘ + Ctrl: Introduction to macOS Red Teaming in 2026
+
+### Speaker
+
+Matthew Lucas-Clarke and Victor van der Helm
+
+### Synopsis
+
+Your target runs macOS, but you don’t know your SIPs from your ESFs? And
+there’s no friendly Active Directory to fall back on? Where do you even
+begin?
+
+This talk will give you the fundamentals you need to adapt your red team
+methodology to macOS with confidence. You don’t need to be Patrick Wardle
+to get results, but by the end of this talk you will at least know who that
+is. We will cover:
+
+ - Core macOS security concepts and how they will affect your operation
+ - Offensive and defensive security tooling
+ - The mindset shifts to pivot your Windows & Linux skills into operating in
+macOS environments
+
+
+# Second talk
+
+## CVE‑2025‑CTRL‑ALT‑FRMWRK
+
+### Speaker
+
+Neil Jacobs and Reza Alavi
+
+### Synopsis
+
+It doesn’t matter whether your organisation uses NIST, ISO, CIS, or a
+completely bespoke internal control set — the specific framework is
+irrelevant. What does matter is understanding how that framework works so
+you can use it as a shared language for communicating risk.
+
+Hackers, researchers, and engineers all start the same way: they learn the
+system before they try to influence it. Frameworks are no different. When
+you understand the logic, structure, and intent behind your controls, you
+can take any technical issue — something you know is wrong — and map it to
+a control. That single step transforms a technical observation into
+something the entire organisation can understand.
+
+Once you express an issue through the lens of a control, everyone is
+suddenly aligned. Engineers, governance, risk, audit, and leadership are
+all speaking the same language. The conversation shifts from “this is
+broken” to “this control is failing, and here’s the risk that creates.”
+
+That’s how you drive meaningful remediation — not through louder technical
+arguments, but through clearer translation.
+
+
+# Future talks
+
+We're still trying to build up a backlog of talks. If you've implemented a C2 on a smartwatch, want to walk us through the highlights of a CTF, or have some insight into the breakdown of security cooperation globally, we're interested!
+
+Drop a message to [{{ site.email }}](mailto:{{ site.email }}) with a title, synopsis and rough length, and don't worry if you haven't presented before.
+
+We're also happy to host other activities, like lockpicking, or demoing a new piece of kit, just let us know.
+
+# New location
+
+We are no longer at the Phoenix! The next meeting will be at:
+
+**The Greene Man**<br/>
+383 Euston Road<br/>
+London NW1 3AU
+
+Closest stations: Great Portland Street, Warren Street, Euston.
+
+We'll start around 7:30pm as usual, but feel free to turn up from 6:45pm to settle in.
