@@ -1,5 +1,3 @@
 run:
-	bundle exec jekyll serve
+	docker run --rm -ti -p 127.0.0.1:4000:4000 -v $$PWD:/app $$(docker build -q .)
 
-update:
-	while true; do git pull --ff-only; sleep 60; done
