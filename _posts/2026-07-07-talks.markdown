@@ -18,6 +18,8 @@ The BIOS password is often seen as the first line of defence against all kinds o
 
 You may see this referenced as CVE-2026-40639.
 
+Slides: [https://github.com/R3n5k1/unlocked-and-leaked](https://github.com/R3n5k1/unlocked-and-leaked)
+
 # Second Talk
 
 ## When Your Coding Agent Gets Pwned
